@@ -1,0 +1,918 @@
+========================================================================================================================
+Categoria:
+========================================================================================================================
+AE1038     Im Only Sleeping     "Sleep"" streams with chat interactions and ambience."
+AF1078     Metal Gear Solid V: The Phantom Pain     Sandbox stealth-action; missions and mods.
+AG1091     Sea of Thieves     Co-op pirate adventures; voyages and PvP.
+AK1034     PUBG: BATTLEGROUNDS     Tactical battle royale; rotations; clutches; and team comps.
+AN1079     Red Dead Redemption 2     Open-world Western; story; online; and RP.
+AN1082     GeoGuessr     Geography guessing; streaks; duels; and tournaments.
+AZ1074     Heroes of Might and Magic III     The Restoration of Erathia,Turn-based strategy; campaigns and PvP.
+BA1060     Talk Shows & Podcasts     Live interviews; panels; and podcast recordings.
+BC1084     Blue Protocol: Star Resonance     Online action RPG with an anime vibe; quests and co-op.
+BK1048     Always On     24/7 channels with loops; cams; and continuous programming.
+BQ1023     Street Fighter 6     1v1 fighting; ranked sets; lab work; tech; and tournaments.
+BQ1071     Star Citizen     Space sim; ships; trading; org operations; and events.
+BY1022     Variety     Mixed-content channels rotating games and formats frequently.
+CG1051     Madden NFL 26     American football; Franchise; MUT; and head-to-head play.
+CV1064     VRChat     Social VR; avatar showcases; world hopping; and meetups.
+CW1089     Marbles on Stream     Chat-controlled marble races and events.
+CY1025     PEAK     Competitive/action title; early-meta exploration and live matches
+DA1063     Arena Breakout: Infinite     Extraction FPS; builds; raids; and economy.
+DB1005     World of Warcraft     MMORPG raids; Mythic+; leveling; PvP arenas; and class guides.
+DN1001     League of Legends     5v5 MOBA; ranked climbs; pro play analysis; and coaching
+DQ1021     Clash Royale     Mobile RTS; ladder; challenges; deck building; and tips.
+DT1007     Minecraft     Survival; creative builds; minigames; speedruns; and modded packs
+DU1053     Garrys Mod     Sandbox & community modes; RP; TTT; and minigames.
+EB1075     Call of Duty     General CoD category; multiplayer; BR; and Zombies across titles.
+ET1065     Project Zomboid     Survival sim; base building; mods; and RP servers.
+EW1042     Rust     Survival PvP; wipe days; raids; bases; and team warfare.
+FE1044     Shadowverse: Worlds Beyond     Anime-style CCG; ladder; tournaments; and deck tech.
+GW1036     Slots     Slot machine streams and related casino content.
+HV1056     ELDEN RING     Soulslike ARPG; challenge runs; builds; and boss fights.
+HW1033     Art     Live drawing; painting; 3D modeling; and illustration workflows.
+IC1059     Pokmon Community Game     Chat-driven Pokï¿½mon minigame played in-stream
+II1076     Crypto     Crypto markets talk; education; and web3 project coverage.
+IR1081     Battlefield 2042     Large-scale FPS; conquest; portal modes; and specialists.
+KB1047     Destiny 2     Looter-shooter; raids; Trials; builds; and seasonal content.
+KF1077     Guild Wars 2     MMORPG; WvW; fractals; raids; and fashion.
+KI1011     Apex Legends     Battle royale/arenas; ranked pushes; tournaments; and legend tips.
+KK1093     Shine Post: Be Your Idol!     Rhythm/idol content; music performance and progression.
+KO1014     Teamfight Tactics     Auto-battler; patch meta comps; high-ELO ladders; and tips.
+KS1031     ASMR     Whispered and sound-focused relaxation to help sleep and study.
+KS1095     Metin2     Classic MMORPG; grinding; dungeons; and PvP.
+LB1029     Deadlock     Competitive shooter/MOBA hybrid; matches and meta testing.
+LD1032     Path of Exile 2     ARPG; campaign; league starts; crafting; and bossing.
+LH1004     VALORANT     Hero-based 5v5 FPS; ranked; team scrims; agent guides; and aim practice.
+LJ1024     Hollow Knight     Metroidvania; challenge runs; speedruns; and full completions.
+LN1013     Dead by Daylight     4v1 horror; killer/survivor gameplay; builds; and customs
+LO1049     Call of Duty: Black Ops 6     CoD entry; multiplayer; Zombies; and campaign runs.
+MD1058     Phasmophobia     Co-op ghost hunting; investigations and challenge runs
+MI1015     Special Events     One-off broadcasts: showcases; charity streams; and premieres.
+MJ1009     Fortnite     Battle royale & creative modes; arena grind; events; and challenges.
+MK1092     Mobile Legends: Bang Bang     Mobile MOBA; ranked grind and events.
+NA1098     Guilty Gear: Strive     1v1 fighter; training mode tech; sets; and tournaments.
+NL1008     Dota 2     5v5 MOBA; high-MMR pubs; scrims; drafts; and tournament coverage.
+NN1055     Games + Demos     Demos and showcases for new and indie games.
+NN1099     Software and Game Development     Live coding; game engines; tools; and devlogs
+NO1070     Foxhole     Massive war MMO; logistics; fronts; and player-driven battles.
+NS1035     Virtual Casino     Virtual casino-style games and demonstrations.
+NU1040     DJs     DJ sets; mixing; and live club-style performances.
+NZ1037     ROBLOX     Community-made experiences: obbies; roleplay; and minigames.
+OA1052     RimWorld     Colony sim; storytelling runs; modpacks; and challenge scenarios.
+OR1066     Are You Smarter Than a 5th Grader?     Quiz/show game sessions with viewers.
+OZ1085     Haunted Room: 205     Horror/escape; investigation; puzzles; and scares.
+PA1054     Tibia     Classic MMORPG; hunts; quests; and guild events.
+PC1086     Warframe     Looter-shooter; frame builds; relic farming; and endgame grinds.
+PK1026     Sports     Sports talk; watch-alongs; management sims; and highlights.
+PY1041     EA Sports FC 25     Football/soccer; Ultimate Team; Seasons; and tournaments.
+QA1080     Magic: The Gathering     TCG; Arena/paper play; deck tech; and events.
+QC1012     Call of Duty     Warzone,BR metas; loadouts; high-kill lobbies; and ranked Resurgence.
+QR1018     Escape from Tarkov     Extraction shooter; raids; looting routes; wipes; and market.
+QT1017     Overwatch 2     5v5 hero FPS; role queue ranked; scrims; and VOD reviews.
+QU1003     Counter-Strike     Tactical 5v5 FPS; scrims; ranked; utility lineups; and tournaments.
+RD1020     World of Tanks     Tank warfare; tech tree grinds; clan wars; and missions.
+RK1027     Last Epoch     ARPG; endgame monoliths; builds; crafting; and loot hunts.
+RL1050     Delta Force     Tactical shooter; squad play; extraction/objective modes.
+RN1030     Hearthstone     Digital CCG; ladder climbs; Arena; Battlegrounds; and deck guides.
+RO1019     Rocket League     Car-soccer; ranked playlists; freestyling; and tournaments.
+RQ1028     Old School RuneScape     Classic MMORPG; skilling; PvM bosses; and Ironman runs.
+SJ1094     Pools Hot Tubs and Beaches     Aquatic IRL; pool streams; hot tubs; and beach hangouts.
+TB1073     Wuthering Waves     Gacha ARPG; pulls; builds; and open-world exploration.
+TM1088     Eternal Return     MOBA/BR hybrid; characters; routes; and ranked.
+TP1087     Chess     Chess games; puzzles; speed chess; and commentary.
+TZ1002     Grand Theft Auto V     Open-world gameplay: GTA Online missions; stunts; and roleplay servers.
+UE1057     FINAL FANTASY XIV ONLINE     MMORPG; MSQ; raids; glam; and daily roulettes.
+UM1000     Just Chatting     Casual conversations; reactions; and hangouts without a main game.
+UW1039     Music     Live music: covers; songwriting; production; and jam sessions.
+VB1096     Age of Empires II     RTS; build orders; ranked matches; and tournaments.
+VD1067     Gears of War: Reloaded     Cover-based shooter; campaign playthroughs and versus.
+VD1097     Supermarket Simulator     Management sim; build and run your own grocery store.
+VG1046     Albion Online     Sandbox MMORPG; PvP; ZvZ; gathering; and crafting economies.
+VO1090     World of Warships     Naval combat; grinds; clans; and ranked.
+VS1083     Abiotic Factor     Co-op survival; crafting; exploration; and base defense.
+VX1069     HELLDIVERS 2     Co-op shooter, operations; weapons; and stratagems.
+WC1010     Metal Gear Solid Delta Snake Eater     Stealth-action remake playthroughs; challenges; and lore.
+WT1016     Marvel Rivals     Team shooter with Marvel heroes; matches; comps; and strategies.
+XC1072     Poker     Live poker tables; analysis; and tournaments.
+XG1006     IRL     Real-life streaming: travel; city walks; food tours; and daily life.
+XL1061     Clair Obscur: Expedition 33     Story-driven RPG; playthroughs and theorycrafting.
+YC1062     Animals Aquariums and Zoos     Live animal cams; care streams; and zoo tours.
+ZG1043     Retro     Classic and retro gaming; speedruns; challenges; and nostalgia.
+ZT1068     Oh Deer     Light indie experience; exploration and humor.
+ZU1045     Tom Clancys Rainbow Six Siege X     Tactical FPS; strats; ranked; and operator guides
+
+========================================================================================================================
+Comentarios:
+========================================================================================================================
+2chamcham2     rewards
+2chamcham2     hahhahah
+39daph     back again
+39daph     wttf
+ALOHADANCETV     i use 7 depth pretty good high line but not too exposed
+ALOHADANCETV     in honesty your cdm's are too attacking will leave you way too exposed overall
+ALOHADANCETV     fe69e9e340e5eb5aeb1ab8ba2ec524c6a33ff9e2 which version of vvd
+ALOHADANCETV     i think you would get top 100 easy if you get a groundpounder in for pogba man
+A_Seagull     eaids
+A_Seagull     are you playing drop back
+AdmiralBahroo     you got it jake
+AdmiralBahroo     kappa
+Agraelus     675de720c3b5aee1fa2c091e20fac68ef4814ae6 ik im slow downt rub it in:face_with_tears_of_joy:
+Agraelus     goat
+Alexby11     whod ya get in rewards mate
+Alexby11     just saying tots havertz is the best player in the game
+Alexby11     01070678665989b18271ad25a1f1da6f92dbb457 can we pls ban chris
+Alexby11     told you bernardo was a cheat code mass
+Amar     wait i forgot i lost my sub :(
+Amar     #givejakemod
+Amouranth     massnagg massnagg massnagg massnagg massnagg massnagg
+Amouranth     bernardo cdm d:
+Anomaly     they call me unexpected
+Anthony_Kongphan     https://www twitch tv/realedwin
+Anthony_Kongphan     bernardo better than best lul lul
+Anthony_Kongphan     f433d424bd4dbc1f0c0f5f106476b26e4a757008 to cover for fullbacks
+Anton     just packed tradeable bruno fernandez from league sbc <3 3< <3
+Anton     lazzo61 oh aight
+AsmodaiTV     talk to us
+AsmodaiTV     you never switched into cbs for the 1goal though still unlucky as it hit the post and went to him
+Asmongold     just chuck a few rare consumable packs in the rewards you stingy forks
+Aurateur     forking kid thinks he is good abusing mechanics  you were better bro
+Aurateur     just got here c57408f5ed00cc1bd11a04622cad08a16549f988
+AvoidingThePuddle     lul
+AvoidingThePuddle     013e821f4abd3315b33607ba2cb49e56f79ab646 any time
+AvoidingThePuddle     chem style for eusebio
+AvoidingThePuddle     passing lanes is not great; good for one cdm tactics
+Aydan     suuuusssssss
+Aydan     jake is back
+B0aty     ahahahahahaha
+B0aty     wtffffffff
+Baiano     camera
+Baiano     cheer100 #unbanjake
+BarbarousKing     731430e6a38d5dbe9abf28bf0029eddee1191337 random legend
+BarbarousKing     what'd mass get for red picks
+BastiGHG     lul mass is not your guy for things like that lul as long as you dont want to lose coins
+BastiGHG     0e8bbf3683ed63f53e2dd8b79cf977a5d4015ccc its literally above your comment
+BeyondTheSummit     ronaldo is such a gamechanger for me
+BlackUFA     c57408f5ed00cc1bd11a04622cad08a16549f988 way gone
+BlackUFA     reds
+BlackUFA     you need a real cdm like vieira
+BlackUFA     b05a32bdea5d4d7ab4f72ece7e9a7068708e918c pogchamp
+Brunenger     this guy you playing is so bad
+Brunenger     tots laca or tots aguero for cam
+CDNThe3rd     off
+CDNThe3rd     35607b09633f0ba567e82dd8028a69724a233eca yep lul
+CSRuHub     unlucky
+CSRuHub     i was first lets gooooo
+C_a_k_e     tots havertz is miles better tho 01070678665989b18271ad25a1f1da6f92dbb457
+C_a_k_e     oh you changed it
+CasinoDaddy     give ronaldo something other than 7 to troll him
+CasinoDaddy     c57408f5ed00cc1bd11a04622cad08a16549f988 lul lul lul
+Castro_1021     01070678665989b18271ad25a1f1da6f92dbb457 quik mafs 1 6 mil probably
+Cellbit     you can't even attack lol
+Cellbit     militao has 2* weak foot use him on the right 01070678665989b18271ad25a1f1da6f92dbb457
+DatModz     675de720c3b5aee1fa2c091e20fac68ef4814ae6 how could i be him lmao
+DatModz     b8744dff47fa2f1a9da9b17b39a6173dd0b6a167 reds
+Deadlyslob     lul
+Deadlyslob     biblethump
+Destiny     only took 2 hours for a game lul lul lul
+Destiny     68974f87f72c87ebe22fc8f207e8147c45a5d159 ty dude
+Distortion2     david luiz is an animal for me
+Distortion2     sellout
+Distortion2     lol your depth is mad low
+Distortion2     wl will be extra sweaty when it's best of tots all crossing for sure
+Domingo     tots lacazette over tots aguero
+Domingo     why is everyone in online singles using fork wl squads lol
+Dota2ruhub2     c98e04ba3b487f9c5af40f819c3a663947910059 i can spam how much i want kappa
+Dota2ruhub2     best chem for tots salah
+Dota2ruhub2     c57408f5ed00cc1bd11a04622cad08a16549f988 come to sweden then
+Dota2ruhub2     rewards
+Dota2ruhub2     m
+Dota2ruhub2     bernando silva i swear every shot is a goal
+DrDisrespect     too much bro haha
+DreadzTV     gonna get smashed lul
+DreadzTV     i think it's sampodora or however you spell it 544d0aabccb3de54671d63d524da76bfbef484ed
+DreamHackCS     its so annoying when u press first time pass and your player gets a useless touch
+DreamHackCS     that was actually funny
+ELoTRiX     https://www twitch tv/realedwin
+ELoTRiX     reg pogba or reg kdb as cam
+ELoTRiX     search his name
+ELoTRiX     #tradingwithmass
+ESAMarathon     you seen the patch notes guys
+ESAMarathon     who's jake lmao
+ESL_CSGO     can someone help me with trading
+ESL_CSGOb     fe69e9e340e5eb5aeb1ab8ba2ec524c6a33ff9e2 vvd 88
+ESL_CSGOb     01070678665989b18271ad25a1f1da6f92dbb457 do u ever slide tackle
+ESL_CSGOb     pressure on heavy is $$
+ESL_CSGOb     drop pogba for kante
+EWROON     peennn
+EWROON     aa9f173af025007ac67b5c270674986aaa4adb26 69842b342cd722f7046f3fb3d8499b767c0661f7 ima fight u stop
+Elajjaz     jake is the goat
+Elajjaz      there's a cool of period on the commands it's to prevent spamming
+Elraenn     this guy is terrible
+Elraenn     put militao on the right
+Elwind     731430e6a38d5dbe9abf28bf0029eddee1191337 a legend
+Elwind     will var ever be in fifa
+EmadGG     looooooool
+EmadGG     u did a slide tackle bro wasn't a pen
+EsfandTV     ronaldo at cam
+EsfandTV     01070678665989b18271ad25a1f1da6f92dbb457 can u show custom tactics and instructions after this game
+Evelone192     01070678665989b18271ad25a1f1da6f92dbb457 i've genuinely never bought one lul
+FORMAL     013e821f4abd3315b33607ba2cb49e56f79ab646 didnt feel like you spammed enough
+FORMAL     tots goretza sbc 01070678665989b18271ad25a1f1da6f92dbb457
+FORMAL      its better if you dont control your cbs in this fifa you're rewarded
+FORMAL     looool
+FPSThailand     i want to unban him
+FPSThailand     why cr7 cam
+FPSThailand     https://www twitch tv/realedwin
+FPSThailand     i just wonder how you score next year
+Felps     getting slapped up by an 83 year old
+Felps     01070678665989b18271ad25a1f1da6f92dbb457 use fast build up with drop back
+Felps     ahhhh red one i see
+Felps     c3e9b20869a4efc9487232e339ee8a45751d79a0 probably
+Felps     https://www twitch tv/realedwin
+Felps     i only like the pro clubs menus tbh 01070678665989b18271ad25a1f1da6f92dbb457
+Fextralife     league sbccccccccccc
+FolagorLives     what did he sayy
+FolagorLives     chat/mass is it smart to invest in rare ligue 1 players ready for when upgrades are out
+FollowGrubby     fork this game
+FollowGrubby     shhhh
+Fresh     15 mil maybe when you think you got some yourself too
+GamesDoneQuick     holy sh*t players are up so much with tots i could sell my team and make like 5 mill profit
+Gaules     imagine doing this on a proper road to glory kappa
+Gotaga     bpm op
+Grimmmz     man can i ask u what can u tell about raul 92 as st have not enough money for criro:-(
+Grimmmz     i hav 2 5m to improve
+Grimmmz     he's obviously a silva 2 finisher come on mass
+Grimmmz     was that havertz potm
+H2P_Gucio     your defence looks way now 01070678665989b18271ad25a1f1da6f92dbb457
+H2P_Gucio     do u think arsenal should sell ozil
+HGmony     4f478197ee0bcf79f9858de8c6c68e0871333e7b
+HGmony     013e821f4abd3315b33607ba2cb49e56f79ab646 i heard he bought a new one for his birthday
+HGmony     shoot
+HGmony     sorry newer to streaming apologies for these weird questions
+HGmony     would have made more sense to pair up pogba with vieira rather than gullit imo but gullit is so fun
+Homyatol     the sweat is real
+Homyatol     m a n a g e r
+HoneyMad     wow
+HoneyMad     01070678665989b18271ad25a1f1da6f92dbb457 will you try toty messi this fifa or can you not afford
+IzakOOO     kit numbers
+IzakOOO     yep 01070678665989b18271ad25a1f1da6f92dbb457
+Jahrein     will you get toty virgil van dick face or varane in the future
+Jahrein     grrr
+JesusAVGN     https://www twitch tv/realedwin
+JesusAVGN     anyways lads ole's at the wheel
+JesusAVGN     bong break kappa
+JesusAVGN     i prefer a 4 star weak foot for cam but 99stam is great for cam
+JesusAVGN     there is still smoke in the background
+JesusAVGN     face_with_tears_of_joy: :face_with_tears_of_joy: :face_with_tears_of_joy: :face_with_tears_of_joy:
+JohnPitterTV     48bf8afbe9ed1fa3f67291f7018fe2950ad901df tomorow no school thats why
+JohnPitterTV     lul lul lul
+JoshOG     j e s u s
+JoshOG     wtfffffff
+Kamet0     why has laca got auba's squad num
+Kamet0     sssiiiiii
+KingRichard     thank you for the follow and its jake lul
+KingRichard     damn
+Kitboga     reds
+Kitboga     choon
+Ko0416      i'd probably use anchor on laporte and shadow on vvd personally
+Ko0416     123
+Ko0416     menu streaming
+Ko0416     bernardos weak foor not good for cam
+LCK     & before that i had enough through buying packs
+LCK_Korea     10 mill
+LCS     01070678665989b18271ad25a1f1da6f92dbb457 bpm lul
+LPL      i love ur kit ihave that one and the blue pinkand white latin kit
+LPL     01070678665989b18271ad25a1f1da6f92dbb457 its like ea made that menu troll u
+LVNDMARK     675de720c3b5aee1fa2c091e20fac68ef4814ae6 do u know why moobot dms me instead of sending to chat
+LVNDMARK     lul
+LVPes     i literally jake put something and instantly it's banned lul
+LVPes     congrats
+Letshe     01070678665989b18271ad25a1f1da6f92dbb457 i would try aggressive and balanced before drop back
+Letshe     much love brother hope all is well with you
+Letshe     ferhat is the goat btw
+Letshe     d86ed9c915c9610518ddb33c33f2fd6912c40de5 yooooo
+Letshe     9115bf4cda132608fa28d5c54ac2d11a9086adea
+Letshe     im also a manu fan xd
+LexVeldhuis     c57408f5ed00cc1bd11a04622cad08a16549f988 lul we need one of them for mass as well
+LexVeldhuis     reds
+Llobeti4     731430e6a38d5dbe9abf28bf0029eddee1191337 just checking you sexy bum
+Llobeti4     a954227235571316131abb831a9fba6d5131b94a what did the patch said
+Locklear     goooaaalazooooooooooooooooooooo
+Locklear     about time kappa
+LosPollosTV     reds
+LosPollosTV     i get pens for croquetas into defenders this game makes no sense
+MOONMOON     who you packed from the reds bro
+MYM_ALKAPONE     siiiiiiiiiiiiu
+MYM_ALKAPONE     what's in game st up
+Magic     joarwinston bully d:
+Magic     who's better tots ederson or tots alisson v
+Magic     ca u play another game wanna know ur opinion of telles mil comb
+Magic     your not gonna win any headers because ronaldo is at cam and gullit is at cdm
+MarcaoRX     why david luiz
+MarcaoRX     01070678665989b18271ad25a1f1da6f92dbb457 tactics
+MarcaoRX     lul jake
+MarcaoRX     c57408f5ed00cc1bd11a04622cad08a16549f988 massnastopthat
+Mathil1     dam
+Mathil1     now mass is big time we will all be forgotten
+Maximilian_DOOD     he moved the gk
+Maximilian_DOOD     kuk
+Method     c57408f5ed00cc1bd11a04622cad08a16549f988 i think so too
+Method     it is*
+Mickalow     tots goretza
+Mickalow     https://www twitch tv/realedwin
+Mickalow     i think it was better with cr7 at cam he's wasted out wide imo
+Mickalow     lul
+Mickalow     maybe lower the widthwhile u playing the cdms on cover wide
+Mickalow     sorry
+MinosTV_     you need a vieira
+MinosTV_     is lw willian any good
+MinosTV_     #welcomebackjake
+MinosTV_     that militao is a hack
+MontanaBlack88     way tooooo much
+NICKMERCS     i have 50k
+NOBRU     41212 swap cbs
+NOBRU     68974f87f72c87ebe22fc8f207e8147c45a5d159 lul
+Nadeshot     bruh
+Nadeshot     ouch
+NeVeR_LosEs     the pass this fifa is awful
+NeVeR_LosEs     #bestandonlymod kappa
+NeVeR_LosEs     b9bc384a11db1e3dba6efbea0a6cacc4eb907a26 shut up
+NeVeR_LosEs     u need to abuse crosses bro
+NickEh30     c57408f5ed00cc1bd11a04622cad08a16549f988 i have 37 of them lul
+Nightblue3     you camera is tele setup
+Nightblue3     try ronaldo on the wing and silva at cam
+NoWay4u_Sir     trading with mass 1mill to 0 in less the 2 days lets goooo
+ONSCREEN     yes another one
+ONSCREEN     f
+Overpow     thx :)
+Overpow     f433d424bd4dbc1f0c0f5f106476b26e4a757008 88vd or tots john stones
+Overpow     wanna get elite
+POW3Rtv     masss how are you
+POW3Rtv     sick legend
+Papaplatte     jake
+Papaplatte     675de720c3b5aee1fa2c091e20fac68ef4814ae6 you know it
+Ponce     finally my first jake ban of the day kappa sorry jake
+Ponce     wait u got da costa and put mission failed for reds thats mad sus
+Ponce     a954227235571316131abb831a9fba6d5131b94a they must remove la croquetta bro and tornados cross
+Ponce     c57408f5ed00cc1bd11a04622cad08a16549f988 fight me first tho right
+Quin69     triple team haha
+Quin69     wait for it
+ROSHTEIN     i've spent 1 2mil on fitness card and my teams worth a similar price
+Rainbow6     jake i missed you
+Rainbow6     jake
+Rakin     e3214df16861673d444661293a3053f5058287f8 2slo4me
+Rakin     looool
+RduLIVE     hwatttttttt
+RduLIVE     69842b342cd722f7046f3fb3d8499b767c0661f7 missed you cutie
+RebirthzTV     69842b342cd722f7046f3fb3d8499b767c0661f7 welcome back
+RebirthzTV     ederson trash
+Reborn_Live     record ban c57408f5ed00cc1bd11a04622cad08a16549f988
+Reborn_Live     just me that tries to have kit numbers accurate or am i weird
+RiotGamesBrazil     can we get a ban on f75f4c1490687f9333bc42ce84431a90bc5b1647 thank you
+RiotGamesJP     mass can u help me improve my team https://www futbin com/19/squad/8151003
+RiotGamesJP     pls say something jake lul
+RiotGamesRU     cr7 should be striker
+RiotGamesRU     jake getting shot down quicker than malaysia airlines flight 370 kappa
+RiotGamesRU      it's better to be aggressive with cbs when defending different people play different i guess
+RiotGamesRU     https://www twitch tv/realedwin
+RoyalPhunk     what gameplay is this
+RoyalPhunk     full high 01070678665989b18271ad25a1f1da6f92dbb457
+RoyalPhunk     im like a gold2/1 player
+Rush     reds
+Rush     boooooolshit
+SPYGEA     f6a9479e3d05973c76570d0175d2a62a1d110475 never gonna give you up by rick astley
+SPYGEA     #letjakefree
+SaltyBet     c3e9b20869a4efc9487232e339ee8a45751d79a0 who are you kappa
+SaltyBet     fe69e9e340e5eb5aeb1ab8ba2ec524c6a33ff9e2 i would go vvd but stones is still decent
+SaltyBet     7a2cc49a10d7d1ac21e3d19e0411f6d3ac81b170 like to link to kimmich and tah
+SaltyBet     oml this is barcelona 2011 all over again
+SaltyBet     013e821f4abd3315b33607ba2cb49e56f79ab646 low blow
+SaltyBet     guys will play when he's ready man stop spamming play games
+Scarra     ty
+Scarra     013e821f4abd3315b33607ba2cb49e56f79ab646 didnt realise i had caps on mb
+Sfory     your wasting ronaldo by putting him at cam you should play him as an outside
+Sfory     no worries 544d0aabccb3de54671d63d524da76bfbef484ed
+Shaunz     01070678665989b18271ad25a1f1da6f92dbb457 custom tactics and instructions
+Shaunz     bro why is there so many luis guys in this stream including me thres like a solid 4-5
+SilverName     this game so good gameplay i wish i had that skill
+SilverName     jake55676533 lul
+Sjow     vieira is the answer
+Sjow     okay im gonna go watch the game now
+Sjow     i play pressure on heavy
+Sjow     446580e365cac4bae0238a654cc21103f731ce93 cine ii
+SkipNhO     he's on the ropes
+SkipNhO     68974f87f72c87ebe22fc8f207e8147c45a5d159 nah it's not just you i do the same
+SkipNhOLIVE     massnagg massnagg
+SkipNhOLIVE     militao can't pass on his left foot put him on the right in game
+Skyyart     can you check bernardo's stam plz
+Skyyart     fifa = forking intriguing football aids
+Skyyart     f
+Skyyart      what chemstyle on vvd should i use
+SmiteGame     d7cca38a841226be3773c67cdb494a2140990b1d just for the chem
+SmiteGame     record the emirates - the only place in london to watch the europa league
+Smurfdomuca     subs off mitro
+Smurfdomuca     i think you should go for a high/ high player for pogba like tots wijnaldum
+Smurfdomuca     im sohappy with my gold 3 rewards i got eder militao and alex telles
+Smurfdomuca     tah*
+Smurfdomuca     c3e9b20869a4efc9487232e339ee8a45751d79a0 yooooooo
+Smurfdomuca     https://www twitch tv/realedwin
+Solary     do sbcs
+SolaryFortnite     31475a0d54a9380509a415c7e28f7f6b75527674 can't compare those
+Squeezie     675de720c3b5aee1fa2c091e20fac68ef4814ae6 oh ok ty
+Squeezie     give bernanrdo a hunter 01070678665989b18271ad25a1f1da6f92dbb457
+StarLadder5     01070678665989b18271ad25a1f1da6f92dbb457 522 viewers lets go
+StarLadder5     massnagg
+StarLadder_cs_en     my ban
+StarLadder_cs_en     calling an icon a shity
+StaysafeTV     0e8bbf3683ed63f53e2dd8b79cf977a5d4015ccc ok
+StaysafeTV     tbh he was so bad only good with skill moves you are better than him
+StereOnline     it's so good for first time shots
+StereOnline     pressure on heavy is amazing
+StereOnline     8b0b3e7ab08aa054e442e2b541b9ccae3301da60 he's a good swimmer
+StereOnline     welcome everyone :d <3
+Stray228     3a0f127daae660a45011aef3acb89980f38bdccd ofc is micheal owen mate
+Stray228     bye now im going to sleep
+SummonersInnLive     current song
+SummonersInnLive     that team
+Swagg     is that the kid who makes 10 accounts a day 013e821f4abd3315b33607ba2cb49e56f79ab646
+Swagg     arsenal not in ucl again
+TSM_Viss     https://www twitch tv/realedwin
+TSM_Viss     can you guys please lisent for a sec wy cant i get a chance men this is not fair
+TSM_Viss     ban
+Tfue     5110 people in here pogchamp
+TheGrefg     yikes dude
+TheKAIRI78     when are you playing a game
+TheKAIRI78     another one here we go
+TheKAIRI78     where's the guy that scammed kieran
+TheKAIRI78     https://www twitch tv/realedwin
+TheRealKnossi     i havent bought a single fitness card this year
+Trainwreckstv     bae
+Trainwreckstv     01070678665989b18271ad25a1f1da6f92dbb457 give telles number 13 please
+Trymacs     why didnt i buy all the anchors when they were 700 coins
+Trymacs     that was not me guys there ar so manny trolls in chat
+Tumblurr     01070678665989b18271ad25a1f1da6f92dbb457 why cdms on cover wing
+Tumblurr     `we've conquered all of europe `we're never gonna stop `from paris down to turkey `we've won the
+Tumblurr     cr7 anywhere upfront but cam
+Tumblurr     van dijk on 8 chem or tots john stones on 10 chem
+UNLOSTV     e3214df16861673d444661293a3053f5058287f8 lul
+UNLOSTV     https://www twitch tv/realedwin
+UNLOSTV     u like pogba more or vieira 01070678665989b18271ad25a1f1da6f92dbb457
+UNLOSTV     play now
+UNLOSTV     7a2cc49a10d7d1ac21e3d19e0411f6d3ac81b170 could u get tots goretzka
+UNLOSTV     is he a pro
+UberHaxorNova     kit numbers buttcheek
+UberHaxorNova     gg
+Veritas     remember when mass didn't want to use gullit at cdm
+Veritas      futbday walker 87 schar pretty good too if you have a faster guy to cover him
+Veritas     where dyu usually finish in champs
+VooDooSh     jake pls come back i wont ban you again
+VooDooSh     lul
+VooDooSh     f433d424bd4dbc1f0c0f5f106476b26e4a757008 playing him with 94 laporte on shadow
+VooDooSh     drop back helps bro
+Voyboy     c57408f5ed00cc1bd11a04622cad08a16549f988 there was no reason for that
+Voyboy     robbed like arsenal last night kappa
+WELOVEGAMES     edwinnraid edwinnraid edwinnraid edwinnraid edwinnraid
+WELOVEGAMES     why is your depth so damn low lul
+WELOVEGAMES     baby blanc
+WELOVEGAMES     i play balanced with 10 depth and full backs on balanced 01070678665989b18271ad25a1f1da6f92dbb457
+WePlayEsport_RU     ronaldo waste at cam
+WePlayEsport_RU     camera
+XEWER     c57408f5ed00cc1bd11a04622cad08a16549f988 fight me
+XEWER     https://www twitch tv/realedwin
+XEWER     c57408f5ed00cc1bd11a04622cad08a16549f988 i'm disappointed w/ you
+XEWER     sorry kappa
+Xari     team of the season mane
+Xari      and theyre the same speed so i guess the bigger dude wins out there
+Xari     013e821f4abd3315b33607ba2cb49e56f79ab646 stop bullying jake :(
+Xari     i wonder why they're up so much
+Xayoo_     cheer15 would you sell laca for 94 neymar
+Xayoo_     record /ban chrispello1995
+Yassuo     remember i counted that a month ago it was already disgraceful :rolling_on_the_floor_laughing:
+YoDa     2 mil on fitness holyyyyyy
+ZanoXVII     imagine playing menus 19 with 500 viewers kappa
+ZanoXVII     lets gooo
+ZeratoR     jake?!? <3
+ZeratoR     c57408f5ed00cc1bd11a04622cad08a16549f988 i prefer not to speak tbh
+a541021     yikes
+a541021     hoooooooooooly
+aXtLOL     or goretzka
+aXtLOL     can i get a chance or what :z :z
+aXtLOL     013e821f4abd3315b33607ba2cb49e56f79ab646 he will never make one ffs
+aXtLOL     c57408f5ed00cc1bd11a04622cad08a16549f988 is probably going to get it tho
+adolfz     we need gameplay
+adolfz     c57408f5ed00cc1bd11a04622cad08a16549f988 could mean a few things kappa
+adolfz     kappa
+adolfz     c57408f5ed00cc1bd11a04622cad08a16549f988 you rather stay in the uk with your new pm boris kappa
+adolfz     https://www twitch tv/realedwin
+adolfz     c98e04ba3b487f9c5af40f819c3a663947910059 f kappa lul
+alanzoka     cos you dont grind
+auronplay     2million coins
+blusewilly_retry     will you get toty virgil van dick face or varane in the future
+blusewilly_retry     he just got demolished
+blxckoutz     baaaaaaaaaaan
+blxckoutz     https://www twitch tv/realedwin
+blxckoutz     tots goretzka would solve the cdm problem
+blxckoutz     whoever just put use drop back needs banning kappa
+boyMinORu      its lengthy ea say for next version fixing the broken mechanics
+boyMinORu     go high depth it helps 01070678665989b18271ad25a1f1da6f92dbb457
+boyMinORu     potm
+boyMinORu     anyone have any tips on good lw
+bratishkinoff     finally
+bratishkinoff     rewards
+btssmash     ok thats definetly a pro or something
+btssmash     efa27269d3cc26cd2edbd6c6989a0aeebcfd7314 :face_with_tears_of_joy: :face_with_tears_of_joy:
+buddha     am noob trader need help
+buddha     kieran has banned so many random chnnels
+bysTaXx     go high depth bro u giving too much space 01070678665989b18271ad25a1f1da6f92dbb457
+bysTaXx     record ban c57408f5ed00cc1bd11a04622cad08a16549f988
+bysTaXx     stop moobot
+bysTaXx     higher depth is good if you can manual defend watch runthefutmarket tactics
+cloakzy     c98e04ba3b487f9c5af40f819c3a663947910059 lul lul lul lul
+cloakzy     face_with_tears_of_joy: :face_with_tears_of_joy: :face_with_tears_of_joy
+coscu     let's go gameplay
+coscu     rewards
+crokeyz     https://www twitch tv/realedwin
+crokeyz     bong break
+crokeyz     sbc
+crokeyz     85 vvd lul
+crokeyz     01070678665989b18271ad25a1f1da6f92dbb457 how is that birthday bong working kappa
+crokeyz     good night man have good steam i'm going to sleep :zzz: :waving_hand_medium_skin_tone:
+csgomc_ru     who is better gold neymar or 88 felipe
+dafran     that guy is such a meta abuser lul lul lul
+dafran     massnalaca massnalaca massnalaca massnalaca
+daltoosh     go high depth bro 01070678665989b18271ad25a1f1da6f92dbb457
+daltoosh     i tbh dont mind timed finishing
+daltoosh     013e821f4abd3315b33607ba2cb49e56f79ab646 back off pus
+daltoosh     i used pressure on heavy but drop back is way better
+dasMEHDI     013e821f4abd3315b33607ba2cb49e56f79ab646 which would you prefer
+dasMEHDI     lmao anchor were 800 a week ago
+ddahyoni     e3214df16861673d444661293a3053f5058287f8 lul
+ddahyoni     kit numbers
+dota2ti     lmfaaoooooo !reds:face_with_tears_of_joy: :face_with_tears_of_joy: :face_with_tears_of_joy
+dota2ti     yes jake <3
+dota2ti_ru     deserved a goal there good build up play and green shot and his keeper bails him out
+dota2ti_ru     jake is just a meme now tbh lul
+failverde     channels
+failverde     omg
+flurry1989     m a n a g e r
+flurry1989     wtffffff
+fps_shaka     reds
+fps_shaka     loooooool
+godjj     hope that the new team in action dominates
+godjj     not switch into defenders
+gratis150ml     lul
+gratis150ml     i have cr7 neymar prime eusebio and mbappe where would u olay each of em in a 423rcam lcam cam st
+gratis150ml     u think tagliafico is worth it bro
+gratis150ml     i play full high depth 01070678665989b18271ad25a1f1da6f92dbb457
+hanryang1125     send en beskjed
+hardgamechannel     i bet he's playing the mighty jake
+hardgamechannel     edwinnraid edwinnraid edwinnraid edwinnraid edwinnraid edwinnraid edwinnraid edwinnraid
+hardgamechannel     bernardo got good stamina
+hardgamechannel     tots goretzka sbc bro better than viera imo bro
+hashinshin     pen ref
+hashinshin     look who's back
+ibai     anchors are like 4k now
+itmeJP     013e821f4abd3315b33607ba2cb49e56f79ab646 eww
+itmeJP     c3e9b20869a4efc9487232e339ee8a45751d79a0 damn straight
+itmeJP     olesse
+itmeJP     this could make more sense kappa #menus19
+itmeJP     how do u use ederson he's terrible for me
+itmeJP     d86ed9c915c9610518ddb33c33f2fd6912c40de5 kappa
+itsHafu     build a nice team to experience this gameplay sums up the game
+itsHafu     0-0 is ur only hope
+jdm2088     hi
+jdm2088     tough
+juansguarnizo     kappa
+juansguarnizo     c57408f5ed00cc1bd11a04622cad08a16549f988 lul
+just_ns     he is*
+just_ns     no
+just_ns     fe69e9e340e5eb5aeb1ab8ba2ec524c6a33ff9e2 vvd imo stones cant jump well even with anchor
+just_ns     you will have to make it lul just take the photo from twitter
+kimdoe     trasssssh
+kimdoe     im so lucky i just got red 92 militao in premium fut champions sbc
+knekro     https://www twitch tv/realedwin
+knekro     dc united are interrested in ashley young
+knekro     01070678665989b18271ad25a1f1da6f92dbb457 what do you think of 95 kimmich and 91 tha
+knekro     c3e9b20869a4efc9487232e339ee8a45751d79a0 lul
+knekro     what reds did you get
+knekro     what dyu think of militao
+kyo1984123     no problem bro been hearing your name a lot and thought id finally meet u :) 
+kyo1984123     446580e365cac4bae0238a654cc21103f731ce93 you know his name
+kyo1984123     peter schmeichel is no joke great was going to put him into another icon dont want to anymore
+kyo1984123     grind for viera
+lestream     06cebc5aa4e9aa0c6d57b8916ca674a6198efb43 have fun
+lestream     thought you had died or something welcome back
+lilypichu     easy xd
+lilypichu     f6a9479e3d05973c76570d0175d2a62a1d110475 pen ref by mass nar
+lol_ambition     hopefully we get a game before the 3hr mark
+lol_ambition     current son
+lol_woolf     pen :o
+lol_woolf     glad i'm not the only one haha 523885702bd6e0936dca444ae4d7e27120ccc9b3
+mch_AGG     and just like that
+mch_AGG     there's a pro that uses that badge this might be him lol
+melharucos     a pro
+melharucos     f
+midbeast     https://www easports com/fifa/ultimate-team/web-app/?showoffid
+midbeast     u can set cr7 to stay up front
+midbeast     use drop back
+midbeast     2e42cd8917a25d16b7709da8b974ece13982f098 check whispers
+mistermv     this game is a forking jokeeeeeeeeeeeee
+mistermv     friend fsfsffs
+mobilmobil     reds
+mobilmobil     c57408f5ed00cc1bd11a04622cad08a16549f988 lul he is probably half of the 8k follows tbh
+moistcr1tikal     rip
+moistcr1tikal     731430e6a38d5dbe9abf28bf0029eddee1191337 are you jake
+muse_tw     01070678665989b18271ad25a1f1da6f92dbb457 because thats his number you dummy kappa
+muse_tw     ggggg
+naseongkim     gameplay looks very quick
+naseongkim     #welcomebackjake
+naseongkim     https://www twitch tv/realedwin
+naseongkim     40f7cbaa4d2c49168fdf51ef2ddd3ab4b8ee1790 soon hopefully lul
+nokduro     675de720c3b5aee1fa2c091e20fac68ef4814ae6 nice try
+nokduro     from now on i am back again to make his life miserable
+obm1025     i personally felt good about the patch notes
+obm1025     current song
+obm1025     shadow if you dont have a faster cb with him if you have a faster one then anchor
+obm1025     goretzka
+orangemorange     you're playing against a fellow romanian mass
+orangemorange     is it bad for me to have 2 fullbacks at 7 chem
+orangemorange     try 4222
+orangemorange     edwinnraid edwinnraid edwinnraid edwinnraid
+pacific8815     massnasuspect
+pacific8815     tell a friends
+pimpimenta     https://www twitch tv/realedwin
+pimpimenta     lul
+pimpimenta     i really do actually but it's a lot easier to see a lot of gameplay that a lot of menus
+pimpimenta     its def a blessing man
+pimpimenta     massnagiroud why tf is giroud red he's a blue now
+pimpimenta     when are you gonna finish your haircut
+pokimane     jake is tbe
+pokimane     013e821f4abd3315b33607ba2cb49e56f79ab646 smart
+polsatgames     c57408f5ed00cc1bd11a04622cad08a16549f988 wow
+polsatgames     c57408f5ed00cc1bd11a04622cad08a16549f988 smh my head
+polsatgames     01070678665989b18271ad25a1f1da6f92dbb457 you need a medium high to balance the midfield
+polsatgames     edwinnraid edwinnraid edwinnraid edwinnraid
+relaxing234     c57408f5ed00cc1bd11a04622cad08a16549f988 i would argue that th y didn't deserve it
+relaxing234     f433d424bd4dbc1f0c0f5f106476b26e4a757008 :(
+rkdwl12     drop back man
+rkdwl12     they basically said we arent getting anything else in fifa 19 tho feelsbadman
+rkdwl12     cs
+rkdwl12     mass what you think about tots thiago
+s1mple     that guy is ass
+s1mple     you need a brick in the middle instead of pogba
+s1mple      they say u cant do more than 2 skills more than 2 brings error as they say
+s1mple     01070678665989b18271ad25a1f1da6f92dbb457 next rewards we could try baby blanc for pogba
+saddummy     i packed a shitty icon from weeklies siuuuu
+scoped     poor shot
+scoped     013e821f4abd3315b33607ba2cb49e56f79ab646 i feel you man
+scoped     yup
+scoped     any good bpl cb or bundesliga for 200k
+shongxbong     heyguys heyguys
+shongxbong     01070678665989b18271ad25a1f1da6f92dbb457 alisson would have caught it fam
+shuteye_orange     wrong
+shuteye_orange     what's his opponents kit
+singsing     013e821f4abd3315b33607ba2cb49e56f79ab646 to the death pus
+singsing     seems like a decent lad
+singsing     real edwin rade
+singsing     record spurs to win the champions league tomorrow
+sneakylol     lul
+sneakylol     yes
+so_urf     wtf is that lul
+so_urf     https://www twitch tv/realedwin
+so_urf     best day of my life
+so_urf     013e821f4abd3315b33607ba2cb49e56f79ab646 standard liege lil
+so_urf     the passing on this fifa is bad
+so_urf     mass play drop back fast build up
+sonycast_     respect him
+sonycast_     c57408f5ed00cc1bd11a04622cad08a16549f988 late asf
+sonycast_     goretzka maybe
+sonycast_     pogba and gullit are fine imo
+sonycast_     gameplay is the worst part of fifa 19
+sonycast_     01070678665989b18271ad25a1f1da6f92dbb457 4-1
+stylishnoob4     is
+stylishnoob4     will you get tots vvd later on
+summit1g     this is the problem with d1 rewards no consumables
+woowakgood     nearly 500 viewers let's go
+woowakgood     c5b3b52adbe0d226034e9fb442931f51b7363213 they like to win
+wtcN     si
+wtcN     set up*
+xargon0731     another jake lul
+xargon0731     reds
+yamatonjp     any good bundesliga cb or bpl for around 200k
+yamatonjp     i'm better than this guy and i finish bronze 3 in wl kappa
+yamatonjp     where do ppl play havertz not sure where to put him
+yamatonjp     013e821f4abd3315b33607ba2cb49e56f79ab646 im coming to live with you
+yapyap30     this guy is playing very well
+yapyap30     poor defending
+ybicanoooobov     i wish i was jake guy is a legend
+ybicanoooobov     he deserves to be unbanned imo lul
+yeTz     record
+yeTz     too much space mass
+zrush     lul
+zrush     e53f6fd25f481a4fe44edaa824d9d321171e7f49 you seem to be new to this whole mod thing kappa
+
+========================================================================================================================
+Etiquetas:
+========================================================================================================================
+------------------------------------------------------------------------------------------------------------------------
+AAM100     dropsenabled
+------------------------------------------------------------------------------------------------------------------------
+ABY186     varietystreamer
+------------------------------------------------------------------------------------------------------------------------
+AEU118     rpg
+------------------------------------------------------------------------------------------------------------------------
+AUP136     asmr
+------------------------------------------------------------------------------------------------------------------------
+AZL133     furry
+------------------------------------------------------------------------------------------------------------------------
+BBY119     fun
+------------------------------------------------------------------------------------------------------------------------
+BDH190     game
+------------------------------------------------------------------------------------------------------------------------
+BGA171     chatting
+------------------------------------------------------------------------------------------------------------------------
+BJU120     pngtuber
+------------------------------------------------------------------------------------------------------------------------
+BKY101     chill
+------------------------------------------------------------------------------------------------------------------------
+BOC177     oce
+------------------------------------------------------------------------------------------------------------------------
+BPK178     xbox
+------------------------------------------------------------------------------------------------------------------------
+BYR152     lgbtq
+------------------------------------------------------------------------------------------------------------------------
+BZQ165     cod
+------------------------------------------------------------------------------------------------------------------------
+COI138     shooter
+------------------------------------------------------------------------------------------------------------------------
+CUV131     drops
+------------------------------------------------------------------------------------------------------------------------
+DIM143     asian
+------------------------------------------------------------------------------------------------------------------------
+DOL102     vtuber
+------------------------------------------------------------------------------------------------------------------------
+DQN116     safespace
+------------------------------------------------------------------------------------------------------------------------
+DRY196     cpp
+------------------------------------------------------------------------------------------------------------------------
+EHZ179     lol
+------------------------------------------------------------------------------------------------------------------------
+EZX161     cs2
+------------------------------------------------------------------------------------------------------------------------
+FAE158     friendly
+------------------------------------------------------------------------------------------------------------------------
+FIQ167     18plus
+------------------------------------------------------------------------------------------------------------------------
+FJF159     art
+------------------------------------------------------------------------------------------------------------------------
+FZP192     black
+------------------------------------------------------------------------------------------------------------------------
+GCS151     dropsactivés
+------------------------------------------------------------------------------------------------------------------------
+GGS114     dropsactivados
+------------------------------------------------------------------------------------------------------------------------
+GKP193     pve
+------------------------------------------------------------------------------------------------------------------------
+GZN112     valorant
+------------------------------------------------------------------------------------------------------------------------
+HDQ185     queer
+------------------------------------------------------------------------------------------------------------------------
+HEP135     casual
+------------------------------------------------------------------------------------------------------------------------
+HFO149     variety
+------------------------------------------------------------------------------------------------------------------------
+HHR156     mob
+------------------------------------------------------------------------------------------------------------------------
+HJF113     warzone
+------------------------------------------------------------------------------------------------------------------------
+HMK109     music
+------------------------------------------------------------------------------------------------------------------------
+HPT153     gamergirl
+------------------------------------------------------------------------------------------------------------------------
+HTR108     anime
+------------------------------------------------------------------------------------------------------------------------
+HVP148     multiplayer
+------------------------------------------------------------------------------------------------------------------------
+HWP145     filipino
+------------------------------------------------------------------------------------------------------------------------
+IKJ168     justcchatting
+------------------------------------------------------------------------------------------------------------------------
+IKK125     horror
+------------------------------------------------------------------------------------------------------------------------
+INC128     girl
+------------------------------------------------------------------------------------------------------------------------
+ISJ127     ???????
+------------------------------------------------------------------------------------------------------------------------
+JDO132     ps5
+------------------------------------------------------------------------------------------------------------------------
+JQJ162     chattingwithviewers
+------------------------------------------------------------------------------------------------------------------------
+JUO176     chat
+------------------------------------------------------------------------------------------------------------------------
+JYS169     mmorpg
+------------------------------------------------------------------------------------------------------------------------
+KRH188     dbd
+------------------------------------------------------------------------------------------------------------------------
+KUD124     competitive
+------------------------------------------------------------------------------------------------------------------------
+KXS144     retro
+------------------------------------------------------------------------------------------------------------------------
+LCI182     japanese
+------------------------------------------------------------------------------------------------------------------------
+LIX198     ia
+------------------------------------------------------------------------------------------------------------------------
+LJW189     repeat
+------------------------------------------------------------------------------------------------------------------------
+LTE194     speedrun
+------------------------------------------------------------------------------------------------------------------------
+LWC105     rerun
+------------------------------------------------------------------------------------------------------------------------
+MCY111     ranked
+------------------------------------------------------------------------------------------------------------------------
+MWP106     fps
+------------------------------------------------------------------------------------------------------------------------
+NBF150     apex
+------------------------------------------------------------------------------------------------------------------------
+NNE115     cozy
+------------------------------------------------------------------------------------------------------------------------
+NOV103     gaming
+------------------------------------------------------------------------------------------------------------------------
+OQK199     pokemon
+------------------------------------------------------------------------------------------------------------------------
+OWQ126     chatty
+------------------------------------------------------------------------------------------------------------------------
+PMW117     pc
+------------------------------------------------------------------------------------------------------------------------
+PUH184     callofduty
+------------------------------------------------------------------------------------------------------------------------
+PVV130     minecraft
+------------------------------------------------------------------------------------------------------------------------
+PZG173     gameplay
+------------------------------------------------------------------------------------------------------------------------
+QHJ155     justchatting
+------------------------------------------------------------------------------------------------------------------------
+RFQ147     live
+------------------------------------------------------------------------------------------------------------------------
+RLU104     adhd
+------------------------------------------------------------------------------------------------------------------------
+RSR181     gta
+------------------------------------------------------------------------------------------------------------------------
+SOQ157     firstplaythrough
+------------------------------------------------------------------------------------------------------------------------
+SWT139     dnd
+------------------------------------------------------------------------------------------------------------------------
+TFK195     code
+------------------------------------------------------------------------------------------------------------------------
+TTQ129     playingwithviewers
+------------------------------------------------------------------------------------------------------------------------
+UAA197     python
+------------------------------------------------------------------------------------------------------------------------
+UFK146     marvelrivals
+------------------------------------------------------------------------------------------------------------------------
+UOU172     mtg
+------------------------------------------------------------------------------------------------------------------------
+UPK123     irl
+------------------------------------------------------------------------------------------------------------------------
+UYB174     vibes
+------------------------------------------------------------------------------------------------------------------------
+UZM160     spanish
+------------------------------------------------------------------------------------------------------------------------
+VHS107     fortnite
+------------------------------------------------------------------------------------------------------------------------
+VIB141     lurkerfriendly
+------------------------------------------------------------------------------------------------------------------------
+VIN110     funny
+------------------------------------------------------------------------------------------------------------------------
+VQV154     ama
+------------------------------------------------------------------------------------------------------------------------
+VVW175     nobackseating
+------------------------------------------------------------------------------------------------------------------------
+WDI191     calldofduty
+------------------------------------------------------------------------------------------------------------------------
+WQM170     plus
+------------------------------------------------------------------------------------------------------------------------
+XDR142     mexico
+------------------------------------------------------------------------------------------------------------------------
+XEB122     gamer
+------------------------------------------------------------------------------------------------------------------------
+XOW164     australian
+------------------------------------------------------------------------------------------------------------------------
+XUM137     420
+------------------------------------------------------------------------------------------------------------------------
+YCY140     envtuber
+------------------------------------------------------------------------------------------------------------------------
+YKM163     dropsRussian
+------------------------------------------------------------------------------------------------------------------------
+YUP121     pvp
+------------------------------------------------------------------------------------------------------------------------
+YUQ166     roblox
+------------------------------------------------------------------------------------------------------------------------
+ZKM134     australia
+------------------------------------------------------------------------------------------------------------------------
+ZPK187     dota2
+------------------------------------------------------------------------------------------------------------------------
+ZXP183     dropsaktiviert
+------------------------------------------------------------------------------------------------------------------------
+ZZQ180     comfy
+

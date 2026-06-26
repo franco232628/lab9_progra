@@ -1,0 +1,2259 @@
+----------------------------------------------------------------------------------------------------------------------------------
+                                                      RELACION DE STREAMERS
+----------------------------------------------------------------------------------------------------------------------------------
+CANAL:    Gaules
+FECHA:    20220215
+LENGUAJE: Portuguese
+CATEGORIA
+   CODIGO: CY1025
+   NOMBRE: PEAK
+   DESCRIPCION: Competitive/action title; early-meta exploration and live matches
+ETIQUETAS STR: KRH188-BBY119
+ETIQUETAS: 
+   1) CODIGO: KRH188  NOMBRE: dbd
+   2) CODIGO: BBY119  NOMBRE: fun
+COMENTARIOS: 
+   1) imagine doing this on a proper road to glory kappa
+CANAL:    auronplay
+FECHA:    20231010
+LENGUAJE: Spanish
+CATEGORIA
+   CODIGO: BK1048
+   NOMBRE: Always On
+   DESCRIPCION: 24/7 channels with loops; cams; and continuous programming.
+ETIQUETAS STR: BDH190
+ETIQUETAS: 
+   1) CODIGO: BDH190  NOMBRE: game
+COMENTARIOS: 
+   1) 2million coins
+CANAL:    MontanaBlack88
+FECHA:    20210112
+LENGUAJE: German
+CATEGORIA
+   CODIGO: LH1004
+   NOMBRE: VALORANT
+   DESCRIPCION: Hero-based 5v5 FPS; ranked; team scrims; agent guides; and aim practice.
+ETIQUETAS STR: HFO149
+ETIQUETAS: 
+   1) CODIGO: HFO149  NOMBRE: variety
+COMENTARIOS: 
+   1) way tooooo much
+CANAL:    hanryang1125
+FECHA:    20220403
+LENGUAJE: Korean
+CATEGORIA
+   CODIGO: TP1087
+   NOMBRE: Chess
+   DESCRIPCION: Chess games; puzzles; speed chess; and commentary.
+ETIQUETAS STR: KXS144-SWT139
+ETIQUETAS: 
+   1) CODIGO: KXS144  NOMBRE: retro
+   2) CODIGO: SWT139  NOMBRE: dnd
+COMENTARIOS: 
+   1) send en beskjed
+CANAL:    alanzoka
+FECHA:    20211010
+LENGUAJE: Portuguese
+CATEGORIA
+   CODIGO: MJ1009
+   NOMBRE: Fortnite
+   DESCRIPCION: Battle royale & creative modes; arena grind; events; and challenges.
+ETIQUETAS STR: LCI182-JDO132
+ETIQUETAS: 
+   1) CODIGO: LCI182  NOMBRE: japanese
+   2) CODIGO: JDO132  NOMBRE: ps5
+COMENTARIOS: 
+   1) cos you dont grind
+CANAL:    LCK_Korea
+FECHA:    20231225
+LENGUAJE: Korean
+CATEGORIA
+   CODIGO: NA1098
+   NOMBRE: Guilty Gear: Strive
+   DESCRIPCION: 1v1 fighter; training mode tech; sets; and tournaments.
+ETIQUETAS STR: VIB141-ZZQ180-HVP148-YCY140
+ETIQUETAS: 
+   1) CODIGO: VIB141  NOMBRE: lurkerfriendly
+   2) CODIGO: ZZQ180  NOMBRE: comfy
+   3) CODIGO: HVP148  NOMBRE: multiplayer
+   4) CODIGO: YCY140  NOMBRE: envtuber
+COMENTARIOS: 
+   1) 10 mill
+CANAL:    TheRealKnossi
+FECHA:    20211120
+LENGUAJE: German
+CATEGORIA
+   CODIGO: AK1034
+   NOMBRE: PUBG: BATTLEGROUNDS
+   DESCRIPCION: Tactical battle royale; rotations; clutches; and team comps.
+ETIQUETAS STR: FAE158-ZZQ180
+ETIQUETAS: 
+   1) CODIGO: FAE158  NOMBRE: friendly
+   2) CODIGO: ZZQ180  NOMBRE: comfy
+COMENTARIOS: 
+   1) i havent bought a single fitness card this year
+CANAL:    TheGrefg
+FECHA:    20231203
+LENGUAJE: Spanish
+CATEGORIA
+   CODIGO: KB1047
+   NOMBRE: Destiny 2
+   DESCRIPCION: Looter-shooter; raids; Trials; builds; and seasonal content.
+ETIQUETAS STR: LJW189-HJF113-RLU104-PMW117
+ETIQUETAS: 
+   1) CODIGO: LJW189  NOMBRE: repeat
+   2) CODIGO: HJF113  NOMBRE: warzone
+   3) CODIGO: RLU104  NOMBRE: adhd
+   4) CODIGO: PMW117  NOMBRE: pc
+COMENTARIOS: 
+   1) yikes dude
+CANAL:    YoDa
+FECHA:    20220614
+LENGUAJE: Portuguese
+CATEGORIA
+   CODIGO: QR1018
+   NOMBRE: Escape from Tarkov
+   DESCRIPCION: Extraction shooter; raids; looting routes; wipes; and market.
+ETIQUETAS STR: PZG173-DIM143-YCY140-ISJ127
+ETIQUETAS: 
+   1) CODIGO: PZG173  NOMBRE: gameplay
+   2) CODIGO: DIM143  NOMBRE: asian
+   3) CODIGO: YCY140  NOMBRE: envtuber
+   4) CODIGO: ISJ127  NOMBRE: ???????
+COMENTARIOS: 
+   1) 2 mil on fitness holyyyyyy
+CANAL:    Solary
+FECHA:    20210222
+LENGUAJE: French
+CATEGORIA
+   CODIGO: II1076
+   NOMBRE: Crypto
+   DESCRIPCION: Crypto markets talk; education; and web3 project coverage.
+ETIQUETAS STR: NBF150
+ETIQUETAS: 
+   1) CODIGO: NBF150  NOMBRE: apex
+COMENTARIOS: 
+   1) do sbcs
+CANAL:    Gotaga
+FECHA:    20230810
+LENGUAJE: French
+CATEGORIA
+   CODIGO: EW1042
+   NOMBRE: Rust
+   DESCRIPCION: Survival PvP; wipe days; raids; bases; and team warfare.
+ETIQUETAS STR: ZPK187
+ETIQUETAS: 
+   1) CODIGO: ZPK187  NOMBRE: dota2
+COMENTARIOS: 
+   1) bpm op
+CANAL:    Evelone192
+FECHA:    20221027
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: BA1060
+   NOMBRE: Talk Shows & Podcasts
+   DESCRIPCION: Live interviews; panels; and podcast recordings.
+ETIQUETAS STR: XDR142-ZZQ180
+ETIQUETAS: 
+   1) CODIGO: XDR142  NOMBRE: mexico
+   2) CODIGO: ZZQ180  NOMBRE: comfy
+COMENTARIOS: 
+   1) 01070678665989b18271ad25a1f1da6f92dbb457 i've genuinely never bought one lul
+CANAL:    ibai
+FECHA:    20210526
+LENGUAJE: Spanish
+CATEGORIA
+   CODIGO: HW1033
+   NOMBRE: Art
+   DESCRIPCION: Live drawing; painting; 3D modeling; and illustration workflows.
+ETIQUETAS STR: BGA171-LIX198
+ETIQUETAS: 
+   1) CODIGO: BGA171  NOMBRE: chatting
+   2) CODIGO: LIX198  NOMBRE: ia
+COMENTARIOS: 
+   1) anchors are like 4k now
+CANAL:    csgomc_ru
+FECHA:    20210803
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: VD1067
+   NOMBRE: Gears of War: Reloaded
+   DESCRIPCION: Cover-based shooter; campaign playthroughs and versus.
+ETIQUETAS STR: HWP145-YUQ166
+ETIQUETAS: 
+   1) CODIGO: HWP145  NOMBRE: filipino
+   2) CODIGO: YUQ166  NOMBRE: roblox
+COMENTARIOS: 
+   1) who is better gold neymar or 88 felipe
+CANAL:    saddummy
+FECHA:    20210105
+LENGUAJE: Korean
+CATEGORIA
+   CODIGO: VX1069
+   NOMBRE: HELLDIVERS 2
+   DESCRIPCION: Co-op shooter, operations; weapons; and stratagems.
+ETIQUETAS STR: FAE158
+ETIQUETAS: 
+   1) CODIGO: FAE158  NOMBRE: friendly
+COMENTARIOS: 
+   1) i packed a shitty icon from weeklies siuuuu
+CANAL:    NoWay4u_Sir
+FECHA:    20231215
+LENGUAJE: German
+CATEGORIA
+   CODIGO: CW1089
+   NOMBRE: Marbles on Stream
+   DESCRIPCION: Chat-controlled marble races and events.
+ETIQUETAS STR: UAA197
+ETIQUETAS: 
+   1) CODIGO: UAA197  NOMBRE: python
+COMENTARIOS: 
+   1) trading with mass 1mill to 0 in less the 2 days lets goooo
+CANAL:    RiotGamesBrazil
+FECHA:    20230527
+LENGUAJE: Portuguese
+CATEGORIA
+   CODIGO: SJ1094
+   NOMBRE: Pools Hot Tubs and Beaches
+   DESCRIPCION: Aquatic IRL; pool streams; hot tubs; and beach hangouts.
+ETIQUETAS STR: RFQ147-BKY101-VVW175-JQJ162
+ETIQUETAS: 
+   1) CODIGO: RFQ147  NOMBRE: live
+   2) CODIGO: BKY101  NOMBRE: chill
+   3) CODIGO: VVW175  NOMBRE: nobackseating
+   4) CODIGO: JQJ162  NOMBRE: chattingwithviewers
+COMENTARIOS: 
+   1) can we get a ban on f75f4c1490687f9333bc42ce84431a90bc5b1647 thank you
+CANAL:    SolaryFortnite
+FECHA:    20220806
+LENGUAJE: French
+CATEGORIA
+   CODIGO: QT1017
+   NOMBRE: Overwatch 2
+   DESCRIPCION: 5v5 hero FPS; role queue ranked; scrims; and VOD reviews.
+ETIQUETAS STR: YUP121-DOL102-XOW164
+ETIQUETAS: 
+   1) CODIGO: YUP121  NOMBRE: pvp
+   2) CODIGO: DOL102  NOMBRE: vtuber
+   3) CODIGO: XOW164  NOMBRE: australian
+COMENTARIOS: 
+   1) 31475a0d54a9380509a415c7e28f7f6b75527674 can't compare those
+CANAL:    Trymacs
+FECHA:    20220417
+LENGUAJE: German
+CATEGORIA
+   CODIGO: RD1020
+   NOMBRE: World of Tanks
+   DESCRIPCION: Tank warfare; tech tree grinds; clan wars; and missions.
+ETIQUETAS STR: HPT153-HEP135-RSR181
+ETIQUETAS: 
+   1) CODIGO: HPT153  NOMBRE: gamergirl
+   2) CODIGO: HEP135  NOMBRE: casual
+   3) CODIGO: RSR181  NOMBRE: gta
+COMENTARIOS: 
+   1) why didnt i buy all the anchors when they were 700 coins
+   2) that was not me guys there ar so manny trolls in chat
+CANAL:    fps_shaka
+FECHA:    20210901
+LENGUAJE: Japanese
+CATEGORIA
+   CODIGO: CG1051
+   NOMBRE: Madden NFL 26
+   DESCRIPCION: American football; Franchise; MUT; and head-to-head play.
+ETIQUETAS STR: BPK178-DQN116
+ETIQUETAS: 
+   1) CODIGO: BPK178  NOMBRE: xbox
+   2) CODIGO: DQN116  NOMBRE: safespace
+COMENTARIOS: 
+   1) reds
+   2) loooooool
+CANAL:    LVPes
+FECHA:    20210526
+LENGUAJE: Spanish
+CATEGORIA
+   CODIGO: AZ1074
+   NOMBRE: Heroes of Might and Magic III
+   DESCRIPCION: The Restoration of Erathia,Turn-based strategy; campaigns and PvP.
+ETIQUETAS STR: FIQ167-AEU118-INC128-CUV131
+ETIQUETAS: 
+   1) CODIGO: FIQ167  NOMBRE: 18plus
+   2) CODIGO: AEU118  NOMBRE: rpg
+   3) CODIGO: INC128  NOMBRE: girl
+   4) CODIGO: CUV131  NOMBRE: drops
+COMENTARIOS: 
+   1) i literally jake put something and instantly it's banned lul
+   2) congrats
+CANAL:    Papaplatte
+FECHA:    20230705
+LENGUAJE: German
+CATEGORIA
+   CODIGO: RQ1028
+   NOMBRE: Old School RuneScape
+   DESCRIPCION: Classic MMORPG; skilling; PvM bosses; and Ironman runs.
+ETIQUETAS STR: VQV154-JUO176
+ETIQUETAS: 
+   1) CODIGO: VQV154  NOMBRE: ama
+   2) CODIGO: JUO176  NOMBRE: chat
+COMENTARIOS: 
+   1) jake
+   2) 675de720c3b5aee1fa2c091e20fac68ef4814ae6 you know it
+CANAL:    stylishnoob4
+FECHA:    20220724
+LENGUAJE: Japanese
+CATEGORIA
+   CODIGO: RK1027
+   NOMBRE: Last Epoch
+   DESCRIPCION: ARPG; endgame monoliths; builds; crafting; and loot hunts.
+ETIQUETAS STR: VHS107-PMW117-IKJ168-ISJ127
+ETIQUETAS: 
+   1) CODIGO: VHS107  NOMBRE: fortnite
+   2) CODIGO: PMW117  NOMBRE: pc
+   3) CODIGO: IKJ168  NOMBRE: justcchatting
+   4) CODIGO: ISJ127  NOMBRE: ???????
+COMENTARIOS: 
+   1) is
+   2) will you get tots vvd later on
+CANAL:    ZeratoR
+FECHA:    20231205
+LENGUAJE: French
+CATEGORIA
+   CODIGO: LD1032
+   NOMBRE: Path of Exile 2
+   DESCRIPCION: ARPG; campaign; league starts; crafting; and bossing.
+ETIQUETAS STR: HMK109
+ETIQUETAS: 
+   1) CODIGO: HMK109  NOMBRE: music
+COMENTARIOS: 
+   1) jake?!? <3
+   2) c57408f5ed00cc1bd11a04622cad08a16549f988 i prefer not to speak tbh
+CANAL:    SilverName
+FECHA:    20230221
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: NL1008
+   NOMBRE: Dota 2
+   DESCRIPCION: 5v5 MOBA; high-MMR pubs; scrims; drafts; and tournament coverage.
+ETIQUETAS STR: NOV103
+ETIQUETAS: 
+   1) CODIGO: NOV103  NOMBRE: gaming
+COMENTARIOS: 
+   1) this game so good gameplay i wish i had that skill
+   2) jake55676533 lul
+CANAL:    Stray228
+FECHA:    20210719
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: NO1070
+   NOMBRE: Foxhole
+   DESCRIPCION: Massive war MMO; logistics; fronts; and player-driven battles.
+ETIQUETAS STR: BPK178-VHS107-VIB141-YUQ166
+ETIQUETAS: 
+   1) CODIGO: BPK178  NOMBRE: xbox
+   2) CODIGO: VHS107  NOMBRE: fortnite
+   3) CODIGO: VIB141  NOMBRE: lurkerfriendly
+   4) CODIGO: YUQ166  NOMBRE: roblox
+COMENTARIOS: 
+   1) 3a0f127daae660a45011aef3acb89980f38bdccd ofc is micheal owen mate
+   2) bye now im going to sleep
+CANAL:    lestream
+FECHA:    20230111
+LENGUAJE: French
+CATEGORIA
+   CODIGO: DT1007
+   NOMBRE: Minecraft
+   DESCRIPCION: Survival; creative builds; minigames; speedruns; and modded packs
+ETIQUETAS STR: BDH190
+ETIQUETAS: 
+   1) CODIGO: BDH190  NOMBRE: game
+COMENTARIOS: 
+   1) 06cebc5aa4e9aa0c6d57b8916ca674a6198efb43 have fun
+   2) thought you had died or something welcome back
+CANAL:    ybicanoooobov
+FECHA:    20220201
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: RD1020
+   NOMBRE: World of Tanks
+   DESCRIPCION: Tank warfare; tech tree grinds; clan wars; and missions.
+ETIQUETAS STR: PUH184-XDR142
+ETIQUETAS: 
+   1) CODIGO: PUH184  NOMBRE: callofduty
+   2) CODIGO: XDR142  NOMBRE: mexico
+COMENTARIOS: 
+   1) i wish i was jake guy is a legend
+   2) he deserves to be unbanned imo lul
+CANAL:    NOBRU
+FECHA:    20230613
+LENGUAJE: Portuguese
+CATEGORIA
+   CODIGO: RD1020
+   NOMBRE: World of Tanks
+   DESCRIPCION: Tank warfare; tech tree grinds; clan wars; and missions.
+ETIQUETAS STR: DQN116-BPK178-RFQ147
+ETIQUETAS: 
+   1) CODIGO: DQN116  NOMBRE: safespace
+   2) CODIGO: BPK178  NOMBRE: xbox
+   3) CODIGO: RFQ147  NOMBRE: live
+COMENTARIOS: 
+   1) 41212 swap cbs
+   2) 68974f87f72c87ebe22fc8f207e8147c45a5d159 lul
+CANAL:    Baiano
+FECHA:    20221227
+LENGUAJE: Portuguese
+CATEGORIA
+   CODIGO: AZ1074
+   NOMBRE: Heroes of Might and Magic III
+   DESCRIPCION: The Restoration of Erathia,Turn-based strategy; campaigns and PvP.
+ETIQUETAS STR: VQV154-UYB174-LWC105-SOQ157
+ETIQUETAS: 
+   1) CODIGO: VQV154  NOMBRE: ama
+   2) CODIGO: UYB174  NOMBRE: vibes
+   3) CODIGO: LWC105  NOMBRE: rerun
+   4) CODIGO: SOQ157  NOMBRE: firstplaythrough
+COMENTARIOS: 
+   1) camera
+   2) cheer100 #unbanjake
+CANAL:    WePlayEsport_RU
+FECHA:    20220508
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: NO1070
+   NOMBRE: Foxhole
+   DESCRIPCION: Massive war MMO; logistics; fronts; and player-driven battles.
+ETIQUETAS STR: VVW175
+ETIQUETAS: 
+   1) CODIGO: VVW175  NOMBRE: nobackseating
+COMENTARIOS: 
+   1) ronaldo waste at cam
+   2) camera
+CANAL:    juansguarnizo
+FECHA:    20210621
+LENGUAJE: Spanish
+CATEGORIA
+   CODIGO: NN1099
+   NOMBRE: Software and Game Development
+   DESCRIPCION: Live coding; game engines; tools; and devlogs
+ETIQUETAS STR: HWP145-PMW117-DQN116-BGA171
+ETIQUETAS: 
+   1) CODIGO: HWP145  NOMBRE: filipino
+   2) CODIGO: PMW117  NOMBRE: pc
+   3) CODIGO: DQN116  NOMBRE: safespace
+   4) CODIGO: BGA171  NOMBRE: chatting
+COMENTARIOS: 
+   1) kappa
+   2) c57408f5ed00cc1bd11a04622cad08a16549f988 lul
+CANAL:    Rakin
+FECHA:    20230311
+LENGUAJE: Portuguese
+CATEGORIA
+   CODIGO: RL1050
+   NOMBRE: Delta Force
+   DESCRIPCION: Tactical shooter; squad play; extraction/objective modes.
+ETIQUETAS STR: VQV154-LCI182-FAE158
+ETIQUETAS: 
+   1) CODIGO: VQV154  NOMBRE: ama
+   2) CODIGO: LCI182  NOMBRE: japanese
+   3) CODIGO: FAE158  NOMBRE: friendly
+COMENTARIOS: 
+   1) e3214df16861673d444661293a3053f5058287f8 2slo4me
+   2) looool
+CANAL:    Cellbit
+FECHA:    20230515
+LENGUAJE: Portuguese
+CATEGORIA
+   CODIGO: IC1059
+   NOMBRE: Pokmon Community Game
+   DESCRIPCION: Chat-driven Pokï¿½mon minigame played in-stream
+ETIQUETAS STR: AAM100
+ETIQUETAS: 
+   1) CODIGO: AAM100  NOMBRE: dropsenabled
+COMENTARIOS: 
+   1) you can't even attack lol
+   2) militao has 2* weak foot use him on the right 01070678665989b18271ad25a1f1da6f92dbb457
+CANAL:    dota2ti_ru
+FECHA:    20230407
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: NO1070
+   NOMBRE: Foxhole
+   DESCRIPCION: Massive war MMO; logistics; fronts; and player-driven battles.
+ETIQUETAS STR: LWC105-LIX198-NNE115-OWQ126
+ETIQUETAS: 
+   1) CODIGO: LWC105  NOMBRE: rerun
+   2) CODIGO: LIX198  NOMBRE: ia
+   3) CODIGO: NNE115  NOMBRE: cozy
+   4) CODIGO: OWQ126  NOMBRE: chatty
+COMENTARIOS: 
+   1) deserved a goal there good build up play and green shot and his keeper bails him out
+   2) jake is just a meme now tbh lul
+CANAL:    Agraelus
+FECHA:    20211205
+LENGUAJE: Czech
+CATEGORIA
+   CODIGO: BC1084
+   NOMBRE: Blue Protocol: Star Resonance
+   DESCRIPCION: Online action RPG with an anime vibe; quests and co-op.
+ETIQUETAS STR: BZQ165
+ETIQUETAS: 
+   1) CODIGO: BZQ165  NOMBRE: cod
+COMENTARIOS: 
+   1) 675de720c3b5aee1fa2c091e20fac68ef4814ae6 ik im slow downt rub it in:face_with_tears_of_joy:
+   2) goat
+CANAL:    shuteye_orange
+FECHA:    20230505
+LENGUAJE: Chinese
+CATEGORIA
+   CODIGO: XG1006
+   NOMBRE: IRL
+   DESCRIPCION: Real-life streaming: travel; city walks; food tours; and daily life.
+ETIQUETAS STR: UAA197-HTR108-INC128-XDR142
+ETIQUETAS: 
+   1) CODIGO: UAA197  NOMBRE: python
+   2) CODIGO: HTR108  NOMBRE: anime
+   3) CODIGO: INC128  NOMBRE: girl
+   4) CODIGO: XDR142  NOMBRE: mexico
+COMENTARIOS: 
+   1) wrong
+   2) what's his opponents kit
+CANAL:    Elraenn
+FECHA:    20230718
+LENGUAJE: Turkish
+CATEGORIA
+   CODIGO: UW1039
+   NOMBRE: Music
+   DESCRIPCION: Live music: covers; songwriting; production; and jam sessions.
+ETIQUETAS STR: BZQ165-NNE115-YUP121
+ETIQUETAS: 
+   1) CODIGO: BZQ165  NOMBRE: cod
+   2) CODIGO: NNE115  NOMBRE: cozy
+   3) CODIGO: YUP121  NOMBRE: pvp
+COMENTARIOS: 
+   1) this guy is terrible
+   2) put militao on the right
+CANAL:    POW3Rtv
+FECHA:    20221211
+LENGUAJE: Italian
+CATEGORIA
+   CODIGO: NO1070
+   NOMBRE: Foxhole
+   DESCRIPCION: Massive war MMO; logistics; fronts; and player-driven battles.
+ETIQUETAS STR: UYB174-YKM163-XOW164-MCY111
+ETIQUETAS: 
+   1) CODIGO: UYB174  NOMBRE: vibes
+   2) CODIGO: YKM163  NOMBRE: dropsRussian
+   3) CODIGO: XOW164  NOMBRE: australian
+   4) CODIGO: MCY111  NOMBRE: ranked
+COMENTARIOS: 
+   1) masss how are you
+   2) sick legend
+CANAL:    IzakOOO
+FECHA:    20230627
+LENGUAJE: Polish
+CATEGORIA
+   CODIGO: VG1046
+   NOMBRE: Albion Online
+   DESCRIPCION: Sandbox MMORPG; PvP; ZvZ; gathering; and crafting economies.
+ETIQUETAS STR: BGA171
+ETIQUETAS: 
+   1) CODIGO: BGA171  NOMBRE: chatting
+COMENTARIOS: 
+   1) kit numbers
+   2) yep 01070678665989b18271ad25a1f1da6f92dbb457
+CANAL:    DreadzTV
+FECHA:    20230125
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: HV1056
+   NOMBRE: ELDEN RING
+   DESCRIPCION: Soulslike ARPG; challenge runs; builds; and boss fights.
+ETIQUETAS STR: ZPK187-YCY140-GGS114
+ETIQUETAS: 
+   1) CODIGO: ZPK187  NOMBRE: dota2
+   2) CODIGO: YCY140  NOMBRE: envtuber
+   3) CODIGO: GGS114  NOMBRE: dropsactivados
+COMENTARIOS: 
+   1) gonna get smashed lul
+   2) i think it's sampodora or however you spell it 544d0aabccb3de54671d63d524da76bfbef484ed
+CANAL:    ddahyoni
+FECHA:    20220211
+LENGUAJE: Korean
+CATEGORIA
+   CODIGO: VX1069
+   NOMBRE: HELLDIVERS 2
+   DESCRIPCION: Co-op shooter, operations; weapons; and stratagems.
+ETIQUETAS STR: GGS114
+ETIQUETAS: 
+   1) CODIGO: GGS114  NOMBRE: dropsactivados
+COMENTARIOS: 
+   1) e3214df16861673d444661293a3053f5058287f8 lul
+   2) kit numbers
+CANAL:    Squeezie
+FECHA:    20221114
+LENGUAJE: French
+CATEGORIA
+   CODIGO: AN1079
+   NOMBRE: Red Dead Redemption 2
+   DESCRIPCION: Open-world Western; story; online; and RP.
+ETIQUETAS STR: SOQ157
+ETIQUETAS: 
+   1) CODIGO: SOQ157  NOMBRE: firstplaythrough
+COMENTARIOS: 
+   1) 675de720c3b5aee1fa2c091e20fac68ef4814ae6 oh ok ty
+   2) give bernanrdo a hunter 01070678665989b18271ad25a1f1da6f92dbb457
+CANAL:    Domingo
+FECHA:    20210803
+LENGUAJE: French
+CATEGORIA
+   CODIGO: AE1038
+   NOMBRE: Im Only Sleeping
+   DESCRIPCION: "Sleep"" streams with chat interactions and ambience."
+ETIQUETAS STR: UYB174-HWP145
+ETIQUETAS: 
+   1) CODIGO: UYB174  NOMBRE: vibes
+   2) CODIGO: HWP145  NOMBRE: filipino
+COMENTARIOS: 
+   1) tots lacazette over tots aguero
+   2) why is everyone in online singles using fork wl squads lol
+CANAL:    mobilmobil
+FECHA:    20231215
+LENGUAJE: Chinese
+CATEGORIA
+   CODIGO: OA1052
+   NOMBRE: RimWorld
+   DESCRIPCION: Colony sim; storytelling runs; modpacks; and challenge scenarios.
+ETIQUETAS STR: HDQ185-KXS144-NBF150
+ETIQUETAS: 
+   1) CODIGO: HDQ185  NOMBRE: queer
+   2) CODIGO: KXS144  NOMBRE: retro
+   3) CODIGO: NBF150  NOMBRE: apex
+COMENTARIOS: 
+   1) reds
+   2) c57408f5ed00cc1bd11a04622cad08a16549f988 lul he is probably half of the 8k follows tbh
+CANAL:    woowakgood
+FECHA:    20210420
+LENGUAJE: Korean
+CATEGORIA
+   CODIGO: MD1058
+   NOMBRE: Phasmophobia
+   DESCRIPCION: Co-op ghost hunting; investigations and challenge runs
+ETIQUETAS STR: ISJ127-IKK125-GZN112-FAE158
+ETIQUETAS: 
+   1) CODIGO: ISJ127  NOMBRE: ???????
+   2) CODIGO: IKK125  NOMBRE: horror
+   3) CODIGO: GZN112  NOMBRE: valorant
+   4) CODIGO: FAE158  NOMBRE: friendly
+COMENTARIOS: 
+   1) nearly 500 viewers let's go
+   2) c5b3b52adbe0d226034e9fb442931f51b7363213 they like to win
+CANAL:    bratishkinoff
+FECHA:    20230709
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: PA1054
+   NOMBRE: Tibia
+   DESCRIPCION: Classic MMORPG; hunts; quests; and guild events.
+ETIQUETAS STR: EZX161-COI138-UAA197
+ETIQUETAS: 
+   1) CODIGO: EZX161  NOMBRE: cs2
+   2) CODIGO: COI138  NOMBRE: shooter
+   3) CODIGO: UAA197  NOMBRE: python
+COMENTARIOS: 
+   1) finally
+   2) rewards
+CANAL:    lol_ambition
+FECHA:    20220409
+LENGUAJE: Korean
+CATEGORIA
+   CODIGO: NS1035
+   NOMBRE: Virtual Casino
+   DESCRIPCION: Virtual casino-style games and demonstrations.
+ETIQUETAS STR: FAE158-AUP136-YCY140-JYS169
+ETIQUETAS: 
+   1) CODIGO: FAE158  NOMBRE: friendly
+   2) CODIGO: AUP136  NOMBRE: asmr
+   3) CODIGO: YCY140  NOMBRE: envtuber
+   4) CODIGO: JYS169  NOMBRE: mmorpg
+COMENTARIOS: 
+   1) hopefully we get a game before the 3hr mark
+   2) current son
+CANAL:    muse_tw
+FECHA:    20220424
+LENGUAJE: Chinese
+CATEGORIA
+   CODIGO: KK1093
+   NOMBRE: Shine Post: Be Your Idol!
+   DESCRIPCION: Rhythm/idol content; music performance and progression.
+ETIQUETAS STR: WQM170-GKP193-VQV154
+ETIQUETAS: 
+   1) CODIGO: WQM170  NOMBRE: plus
+   2) CODIGO: GKP193  NOMBRE: pve
+   3) CODIGO: VQV154  NOMBRE: ama
+COMENTARIOS: 
+   1) 01070678665989b18271ad25a1f1da6f92dbb457 because thats his number you dummy kappa
+   2) ggggg
+CANAL:    coscu
+FECHA:    20220509
+LENGUAJE: Spanish
+CATEGORIA
+   CODIGO: DQ1021
+   NOMBRE: Clash Royale
+   DESCRIPCION: Mobile RTS; ladder; challenges; deck building; and tips.
+ETIQUETAS STR: VIB141-BKY101
+ETIQUETAS: 
+   1) CODIGO: VIB141  NOMBRE: lurkerfriendly
+   2) CODIGO: BKY101  NOMBRE: chill
+COMENTARIOS: 
+   1) let's go gameplay
+   2) rewards
+CANAL:    Locklear
+FECHA:    20230916
+LENGUAJE: French
+CATEGORIA
+   CODIGO: DT1007
+   NOMBRE: Minecraft
+   DESCRIPCION: Survival; creative builds; minigames; speedruns; and modded packs
+ETIQUETAS STR: SWT139-AZL133-DOL102
+ETIQUETAS: 
+   1) CODIGO: SWT139  NOMBRE: dnd
+   2) CODIGO: AZL133  NOMBRE: furry
+   3) CODIGO: DOL102  NOMBRE: vtuber
+COMENTARIOS: 
+   1) goooaaalazooooooooooooooooooooo
+   2) about time kappa
+CANAL:    blusewilly_retry
+FECHA:    20210417
+LENGUAJE: Chinese
+CATEGORIA
+   CODIGO: BC1084
+   NOMBRE: Blue Protocol: Star Resonance
+   DESCRIPCION: Online action RPG with an anime vibe; quests and co-op.
+ETIQUETAS STR: IKK125-BBY119-NOV103
+ETIQUETAS: 
+   1) CODIGO: IKK125  NOMBRE: horror
+   2) CODIGO: BBY119  NOMBRE: fun
+   3) CODIGO: NOV103  NOMBRE: gaming
+COMENTARIOS: 
+   1) will you get toty virgil van dick face or varane in the future
+   2) he just got demolished
+CANAL:    Sfory
+FECHA:    20230920
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: AK1034
+   NOMBRE: PUBG: BATTLEGROUNDS
+   DESCRIPCION: Tactical battle royale; rotations; clutches; and team comps.
+ETIQUETAS STR: RLU104-JYS169
+ETIQUETAS: 
+   1) CODIGO: RLU104  NOMBRE: adhd
+   2) CODIGO: JYS169  NOMBRE: mmorpg
+COMENTARIOS: 
+   1) your wasting ronaldo by putting him at cam you should play him as an outside
+   2) no worries 544d0aabccb3de54671d63d524da76bfbef484ed
+CANAL:    ZanoXVII
+FECHA:    20230905
+LENGUAJE: Italian
+CATEGORIA
+   CODIGO: KO1014
+   NOMBRE: Teamfight Tactics
+   DESCRIPCION: Auto-battler; patch meta comps; high-ELO ladders; and tips.
+ETIQUETAS STR: XUM137-RSR181-DIM143
+ETIQUETAS: 
+   1) CODIGO: XUM137  NOMBRE: 420
+   2) CODIGO: RSR181  NOMBRE: gta
+   3) CODIGO: DIM143  NOMBRE: asian
+COMENTARIOS: 
+   1) imagine playing menus 19 with 500 viewers kappa
+   2) lets gooo
+CANAL:    SkipNhOLIVE
+FECHA:    20210326
+LENGUAJE: Portuguese
+CATEGORIA
+   CODIGO: TB1073
+   NOMBRE: Wuthering Waves
+   DESCRIPCION: Gacha ARPG; pulls; builds; and open-world exploration.
+ETIQUETAS STR: LJW189-KXS144-DOL102-LIX198
+ETIQUETAS: 
+   1) CODIGO: LJW189  NOMBRE: repeat
+   2) CODIGO: KXS144  NOMBRE: retro
+   3) CODIGO: DOL102  NOMBRE: vtuber
+   4) CODIGO: LIX198  NOMBRE: ia
+COMENTARIOS: 
+   1) massnagg massnagg
+   2) militao can't pass on his left foot put him on the right in game
+CANAL:    Kamet0
+FECHA:    20220518
+LENGUAJE: French
+CATEGORIA
+   CODIGO: IC1059
+   NOMBRE: Pokmon Community Game
+   DESCRIPCION: Chat-driven Pokï¿½mon minigame played in-stream
+ETIQUETAS STR: TTQ129-IKK125-EZX161-JUO176
+ETIQUETAS: 
+   1) CODIGO: TTQ129  NOMBRE: playingwithviewers
+   2) CODIGO: IKK125  NOMBRE: horror
+   3) CODIGO: EZX161  NOMBRE: cs2
+   4) CODIGO: JUO176  NOMBRE: chat
+COMENTARIOS: 
+   1) why has laca got auba's squad num
+   2) sssiiiiii
+CANAL:    MYM_ALKAPONE
+FECHA:    20220501
+LENGUAJE: Spanish
+CATEGORIA
+   CODIGO: HV1056
+   NOMBRE: ELDEN RING
+   DESCRIPCION: Soulslike ARPG; challenge runs; builds; and boss fights.
+ETIQUETAS STR: VIN110
+ETIQUETAS: 
+   1) CODIGO: VIN110  NOMBRE: funny
+COMENTARIOS: 
+   1) siiiiiiiiiiiiu
+   2) what's in game st up
+CANAL:    C_a_k_e
+FECHA:    20220118
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: TB1073
+   NOMBRE: Wuthering Waves
+   DESCRIPCION: Gacha ARPG; pulls; builds; and open-world exploration.
+ETIQUETAS STR: RLU104
+ETIQUETAS: 
+   1) CODIGO: RLU104  NOMBRE: adhd
+COMENTARIOS: 
+   1) tots havertz is miles better tho 01070678665989b18271ad25a1f1da6f92dbb457
+   2) oh you changed it
+CANAL:    wtcN
+FECHA:    20210126
+LENGUAJE: Turkish
+CATEGORIA
+   CODIGO: KO1014
+   NOMBRE: Teamfight Tactics
+   DESCRIPCION: Auto-battler; patch meta comps; high-ELO ladders; and tips.
+ETIQUETAS STR: UFK146
+ETIQUETAS: 
+   1) CODIGO: UFK146  NOMBRE: marvelrivals
+COMENTARIOS: 
+   1) si
+   2) set up*
+CANAL:    StarLadder5
+FECHA:    20220725
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: NN1099
+   NOMBRE: Software and Game Development
+   DESCRIPCION: Live coding; game engines; tools; and devlogs
+ETIQUETAS STR: VIN110-HPT153-HWP145-HJF113
+ETIQUETAS: 
+   1) CODIGO: VIN110  NOMBRE: funny
+   2) CODIGO: HPT153  NOMBRE: gamergirl
+   3) CODIGO: HWP145  NOMBRE: filipino
+   4) CODIGO: HJF113  NOMBRE: warzone
+COMENTARIOS: 
+   1) 01070678665989b18271ad25a1f1da6f92dbb457 522 viewers lets go
+   2) massnagg
+CANAL:    Reborn_Live
+FECHA:    20230128
+LENGUAJE: Spanish
+CATEGORIA
+   CODIGO: CY1025
+   NOMBRE: PEAK
+   DESCRIPCION: Competitive/action title; early-meta exploration and live matches
+ETIQUETAS STR: VIN110-TFK195-VHS107
+ETIQUETAS: 
+   1) CODIGO: VIN110  NOMBRE: funny
+   2) CODIGO: TFK195  NOMBRE: code
+   3) CODIGO: VHS107  NOMBRE: fortnite
+COMENTARIOS: 
+   1) record ban c57408f5ed00cc1bd11a04622cad08a16549f988
+   2) just me that tries to have kit numbers accurate or am i weird
+CANAL:    H2P_Gucio
+FECHA:    20221021
+LENGUAJE: Polish
+CATEGORIA
+   CODIGO: ZU1045
+   NOMBRE: Tom Clancys Rainbow Six Siege X
+   DESCRIPCION: Tactical FPS; strats; ranked; and operator guides
+ETIQUETAS STR: MWP106-FAE158
+ETIQUETAS: 
+   1) CODIGO: MWP106  NOMBRE: fps
+   2) CODIGO: FAE158  NOMBRE: friendly
+COMENTARIOS: 
+   1) your defence looks way now 01070678665989b18271ad25a1f1da6f92dbb457
+   2) do u think arsenal should sell ozil
+CANAL:    Xayoo_
+FECHA:    20220514
+LENGUAJE: Polish
+CATEGORIA
+   CODIGO: BY1022
+   NOMBRE: Variety
+   DESCRIPCION: Mixed-content channels rotating games and formats frequently.
+ETIQUETAS STR: IKK125-IKJ168-ZPK187
+ETIQUETAS: 
+   1) CODIGO: IKK125  NOMBRE: horror
+   2) CODIGO: IKJ168  NOMBRE: justcchatting
+   3) CODIGO: ZPK187  NOMBRE: dota2
+COMENTARIOS: 
+   1) cheer15 would you sell laca for 94 neymar
+   2) record /ban chrispello1995
+CANAL:    Jahrein
+FECHA:    20230222
+LENGUAJE: Turkish
+CATEGORIA
+   CODIGO: RN1030
+   NOMBRE: Hearthstone
+   DESCRIPCION: Digital CCG; ladder climbs; Arena; Battlegrounds; and deck guides.
+ETIQUETAS STR: FAE158-BYR152-XUM137-ZZQ180
+ETIQUETAS: 
+   1) CODIGO: FAE158  NOMBRE: friendly
+   2) CODIGO: BYR152  NOMBRE: lgbtq
+   3) CODIGO: XUM137  NOMBRE: 420
+   4) CODIGO: ZZQ180  NOMBRE: comfy
+COMENTARIOS: 
+   1) will you get toty virgil van dick face or varane in the future
+   2) grrr
+CANAL:    Brunenger
+FECHA:    20220917
+LENGUAJE: Spanish
+CATEGORIA
+   CODIGO: HW1033
+   NOMBRE: Art
+   DESCRIPCION: Live drawing; painting; 3D modeling; and illustration workflows.
+ETIQUETAS STR: HEP135-INC128-NBF150-MCY111
+ETIQUETAS: 
+   1) CODIGO: HEP135  NOMBRE: casual
+   2) CODIGO: INC128  NOMBRE: girl
+   3) CODIGO: NBF150  NOMBRE: apex
+   4) CODIGO: MCY111  NOMBRE: ranked
+COMENTARIOS: 
+   1) this guy you playing is so bad
+   2) tots laca or tots aguero for cam
+CANAL:    nokduro
+FECHA:    20230815
+LENGUAJE: Korean
+CATEGORIA
+   CODIGO: LO1049
+   NOMBRE: Call of Duty: Black Ops 6
+   DESCRIPCION: CoD entry; multiplayer; Zombies; and campaign runs.
+ETIQUETAS STR: AEU118-FIQ167
+ETIQUETAS: 
+   1) CODIGO: AEU118  NOMBRE: rpg
+   2) CODIGO: FIQ167  NOMBRE: 18plus
+COMENTARIOS: 
+   1) 675de720c3b5aee1fa2c091e20fac68ef4814ae6 nice try
+   2) from now on i am back again to make his life miserable
+CANAL:    SkipNhO
+FECHA:    20211119
+LENGUAJE: Portuguese
+CATEGORIA
+   CODIGO: AN1079
+   NOMBRE: Red Dead Redemption 2
+   DESCRIPCION: Open-world Western; story; online; and RP.
+ETIQUETAS STR: XOW164-HPT153
+ETIQUETAS: 
+   1) CODIGO: XOW164  NOMBRE: australian
+   2) CODIGO: HPT153  NOMBRE: gamergirl
+COMENTARIOS: 
+   1) he's on the ropes
+   2) 68974f87f72c87ebe22fc8f207e8147c45a5d159 nah it's not just you i do the same
+CANAL:    kimdoe
+FECHA:    20230225
+LENGUAJE: Korean
+CATEGORIA
+   CODIGO: DA1063
+   NOMBRE: Arena Breakout: Infinite
+   DESCRIPCION: Extraction FPS; builds; raids; and economy.
+ETIQUETAS STR: HEP135-GKP193-ISJ127
+ETIQUETAS: 
+   1) CODIGO: HEP135  NOMBRE: casual
+   2) CODIGO: GKP193  NOMBRE: pve
+   3) CODIGO: ISJ127  NOMBRE: ???????
+COMENTARIOS: 
+   1) trasssssh
+   2) im so lucky i just got red 92 militao in premium fut champions sbc
+CANAL:    RebirthzTV
+FECHA:    20220717
+LENGUAJE: Thai
+CATEGORIA
+   CODIGO: EW1042
+   NOMBRE: Rust
+   DESCRIPCION: Survival PvP; wipe days; raids; bases; and team warfare.
+ETIQUETAS STR: UPK123-NBF150
+ETIQUETAS: 
+   1) CODIGO: UPK123  NOMBRE: irl
+   2) CODIGO: NBF150  NOMBRE: apex
+COMENTARIOS: 
+   1) 69842b342cd722f7046f3fb3d8499b767c0661f7 welcome back
+   2) ederson trash
+CANAL:    godjj
+FECHA:    20231205
+LENGUAJE: Chinese
+CATEGORIA
+   CODIGO: MI1015
+   NOMBRE: Special Events
+   DESCRIPCION: One-off broadcasts: showcases; charity streams; and premieres.
+ETIQUETAS STR: LIX198
+ETIQUETAS: 
+   1) CODIGO: LIX198  NOMBRE: ia
+COMENTARIOS: 
+   1) hope that the new team in action dominates
+   2) not switch into defenders
+CANAL:    CSRuHub
+FECHA:    20210112
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: BY1022
+   NOMBRE: Variety
+   DESCRIPCION: Mixed-content channels rotating games and formats frequently.
+ETIQUETAS STR: BYR152-BJU120-BZQ165-LWC105
+ETIQUETAS: 
+   1) CODIGO: BYR152  NOMBRE: lgbtq
+   2) CODIGO: BJU120  NOMBRE: pngtuber
+   3) CODIGO: BZQ165  NOMBRE: cod
+   4) CODIGO: LWC105  NOMBRE: rerun
+COMENTARIOS: 
+   1) unlucky
+   2) i was first lets gooooo
+CANAL:    lol_woolf
+FECHA:    20230313
+LENGUAJE: Korean
+CATEGORIA
+   CODIGO: KS1031
+   NOMBRE: ASMR
+   DESCRIPCION: Whispered and sound-focused relaxation to help sleep and study.
+ETIQUETAS STR: FAE158-VVW175-YUP121-XEB122
+ETIQUETAS: 
+   1) CODIGO: FAE158  NOMBRE: friendly
+   2) CODIGO: VVW175  NOMBRE: nobackseating
+   3) CODIGO: YUP121  NOMBRE: pvp
+   4) CODIGO: XEB122  NOMBRE: gamer
+COMENTARIOS: 
+   1) pen :o
+   2) glad i'm not the only one haha 523885702bd6e0936dca444ae4d7e27120ccc9b3
+CANAL:    EWROON
+FECHA:    20220707
+LENGUAJE: Polish
+CATEGORIA
+   CODIGO: DQ1021
+   NOMBRE: Clash Royale
+   DESCRIPCION: Mobile RTS; ladder; challenges; deck building; and tips.
+ETIQUETAS STR: BZQ165-QHJ155-ABY186-ISJ127
+ETIQUETAS: 
+   1) CODIGO: BZQ165  NOMBRE: cod
+   2) CODIGO: QHJ155  NOMBRE: justchatting
+   3) CODIGO: ABY186  NOMBRE: varietystreamer
+   4) CODIGO: ISJ127  NOMBRE: ???????
+COMENTARIOS: 
+   1) peennn
+   2) aa9f173af025007ac67b5c270674986aaa4adb26 69842b342cd722f7046f3fb3d8499b767c0661f7 ima fight u stop
+CANAL:    a541021
+FECHA:    20230226
+LENGUAJE: Chinese
+CATEGORIA
+   CODIGO: LH1004
+   NOMBRE: VALORANT
+   DESCRIPCION: Hero-based 5v5 FPS; ranked; team scrims; agent guides; and aim practice.
+ETIQUETAS STR: NOV103-DOL102
+ETIQUETAS: 
+   1) CODIGO: NOV103  NOMBRE: gaming
+   2) CODIGO: DOL102  NOMBRE: vtuber
+COMENTARIOS: 
+   1) yikes
+   2) hoooooooooooly
+CANAL:    flurry1989
+FECHA:    20210712
+LENGUAJE: Korean
+CATEGORIA
+   CODIGO: BA1060
+   NOMBRE: Talk Shows & Podcasts
+   DESCRIPCION: Live interviews; panels; and podcast recordings.
+ETIQUETAS STR: AZL133
+ETIQUETAS: 
+   1) CODIGO: AZL133  NOMBRE: furry
+COMENTARIOS: 
+   1) m a n a g e r
+   2) wtffffff
+CANAL:    SummonersInnLive
+FECHA:    20210118
+LENGUAJE: German
+CATEGORIA
+   CODIGO: QA1080
+   NOMBRE: Magic: The Gathering
+   DESCRIPCION: TCG; Arena/paper play; deck tech; and events.
+ETIQUETAS STR: VVW175-VIB141
+ETIQUETAS: 
+   1) CODIGO: VVW175  NOMBRE: nobackseating
+   2) CODIGO: VIB141  NOMBRE: lurkerfriendly
+COMENTARIOS: 
+   1) current song
+   2) that team
+CANAL:    2chamcham2
+FECHA:    20231201
+LENGUAJE: Korean
+CATEGORIA
+   CODIGO: XG1006
+   NOMBRE: IRL
+   DESCRIPCION: Real-life streaming: travel; city walks; food tours; and daily life.
+ETIQUETAS STR: YUP121
+ETIQUETAS: 
+   1) CODIGO: YUP121  NOMBRE: pvp
+COMENTARIOS: 
+   1) rewards
+   2) hahhahah
+CANAL:    pacific8815
+FECHA:    20211017
+LENGUAJE: Korean
+CATEGORIA
+   CODIGO: UM1000
+   NOMBRE: Just Chatting
+   DESCRIPCION: Casual conversations; reactions; and hangouts without a main game.
+ETIQUETAS STR: BYR152-RLU104
+ETIQUETAS: 
+   1) CODIGO: BYR152  NOMBRE: lgbtq
+   2) CODIGO: RLU104  NOMBRE: adhd
+COMENTARIOS: 
+   1) massnasuspect
+   2) tell a friends
+CANAL:    FolagorLives
+FECHA:    20230617
+LENGUAJE: Spanish
+CATEGORIA
+   CODIGO: BQ1023
+   NOMBRE: Street Fighter 6
+   DESCRIPCION: 1v1 fighting; ranked sets; lab work; tech; and tournaments.
+ETIQUETAS STR: VIN110-RFQ147-NBF150
+ETIQUETAS: 
+   1) CODIGO: VIN110  NOMBRE: funny
+   2) CODIGO: RFQ147  NOMBRE: live
+   3) CODIGO: NBF150  NOMBRE: apex
+COMENTARIOS: 
+   1) what did he sayy
+   2) chat/mass is it smart to invest in rare ligue 1 players ready for when upgrades are out
+CANAL:    mistermv
+FECHA:    20210709
+LENGUAJE: French
+CATEGORIA
+   CODIGO: XG1006
+   NOMBRE: IRL
+   DESCRIPCION: Real-life streaming: travel; city walks; food tours; and daily life.
+ETIQUETAS STR: HHR156-HPT153
+ETIQUETAS: 
+   1) CODIGO: HHR156  NOMBRE: mob
+   2) CODIGO: HPT153  NOMBRE: gamergirl
+COMENTARIOS: 
+   1) this game is a forking jokeeeeeeeeeeeee
+   2) friend fsfsffs
+CANAL:    melharucos
+FECHA:    20210302
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: BA1060
+   NOMBRE: Talk Shows & Podcasts
+   DESCRIPCION: Live interviews; panels; and podcast recordings.
+ETIQUETAS STR: VIB141-BJU120-PMW117-SWT139
+ETIQUETAS: 
+   1) CODIGO: VIB141  NOMBRE: lurkerfriendly
+   2) CODIGO: BJU120  NOMBRE: pngtuber
+   3) CODIGO: PMW117  NOMBRE: pc
+   4) CODIGO: SWT139  NOMBRE: dnd
+COMENTARIOS: 
+   1) a pro
+   2) f
+CANAL:    JohnPitterTV
+FECHA:    20210406
+LENGUAJE: Portuguese
+CATEGORIA
+   CODIGO: DU1053
+   NOMBRE: Garrys Mod
+   DESCRIPCION: Sandbox & community modes; RP; TTT; and minigames.
+ETIQUETAS STR: EZX161
+ETIQUETAS: 
+   1) CODIGO: EZX161  NOMBRE: cs2
+COMENTARIOS: 
+   1) 48bf8afbe9ed1fa3f67291f7018fe2950ad901df tomorow no school thats why
+   2) lul lul lul
+CANAL:    jdm2088
+FECHA:    20230306
+LENGUAJE: Korean
+CATEGORIA
+   CODIGO: AN1082
+   NOMBRE: GeoGuessr
+   DESCRIPCION: Geography guessing; streaks; duels; and tournaments.
+ETIQUETAS STR: DIM143
+ETIQUETAS: 
+   1) CODIGO: DIM143  NOMBRE: asian
+COMENTARIOS: 
+   1) hi
+   2) tough
+CANAL:    SPYGEA
+FECHA:    20231121
+LENGUAJE: Japanese
+CATEGORIA
+   CODIGO: KI1011
+   NOMBRE: Apex Legends
+   DESCRIPCION: Battle royale/arenas; ranked pushes; tournaments; and legend tips.
+ETIQUETAS STR: KXS144
+ETIQUETAS: 
+   1) CODIGO: KXS144  NOMBRE: retro
+COMENTARIOS: 
+   1) f6a9479e3d05973c76570d0175d2a62a1d110475 never gonna give you up by rick astley
+   2) #letjakefree
+CANAL:    Amar
+FECHA:    20230621
+LENGUAJE: German
+CATEGORIA
+   CODIGO: BY1022
+   NOMBRE: Variety
+   DESCRIPCION: Mixed-content channels rotating games and formats frequently.
+ETIQUETAS STR: BOC177-RFQ147-AEU118-ISJ127
+ETIQUETAS: 
+   1) CODIGO: BOC177  NOMBRE: oce
+   2) CODIGO: RFQ147  NOMBRE: live
+   3) CODIGO: AEU118  NOMBRE: rpg
+   4) CODIGO: ISJ127  NOMBRE: ???????
+COMENTARIOS: 
+   1) wait i forgot i lost my sub :(
+   2) #givejakemod
+CANAL:    mch_AGG
+FECHA:    20210802
+LENGUAJE: Portuguese
+CATEGORIA
+   CODIGO: VB1096
+   NOMBRE: Age of Empires II
+   DESCRIPCION: RTS; build orders; ranked matches; and tournaments.
+ETIQUETAS STR: JQJ162-IKK125-TFK195-FAE158
+ETIQUETAS: 
+   1) CODIGO: JQJ162  NOMBRE: chattingwithviewers
+   2) CODIGO: IKK125  NOMBRE: horror
+   3) CODIGO: TFK195  NOMBRE: code
+   4) CODIGO: FAE158  NOMBRE: friendly
+COMENTARIOS: 
+   1) and just like that
+   2) there's a pro that uses that badge this might be him lol
+CANAL:    failverde
+FECHA:    20230610
+LENGUAJE: Chinese
+CATEGORIA
+   CODIGO: MI1015
+   NOMBRE: Special Events
+   DESCRIPCION: One-off broadcasts: showcases; charity streams; and premieres.
+ETIQUETAS STR: XUM137-WDI191-HPT153
+ETIQUETAS: 
+   1) CODIGO: XUM137  NOMBRE: 420
+   2) CODIGO: WDI191  NOMBRE: calldofduty
+   3) CODIGO: HPT153  NOMBRE: gamergirl
+COMENTARIOS: 
+   1) channels
+   2) omg
+CANAL:    zrush
+FECHA:    20230119
+LENGUAJE: Chinese
+CATEGORIA
+   CODIGO: HV1056
+   NOMBRE: ELDEN RING
+   DESCRIPCION: Soulslike ARPG; challenge runs; builds; and boss fights.
+ETIQUETAS STR: CUV131-UFK146-HPT153-PVV130
+ETIQUETAS: 
+   1) CODIGO: CUV131  NOMBRE: drops
+   2) CODIGO: UFK146  NOMBRE: marvelrivals
+   3) CODIGO: HPT153  NOMBRE: gamergirl
+   4) CODIGO: PVV130  NOMBRE: minecraft
+COMENTARIOS: 
+   1) lul
+   2) e53f6fd25f481a4fe44edaa824d9d321171e7f49 you seem to be new to this whole mod thing kappa
+CANAL:    HoneyMad
+FECHA:    20220405
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: OZ1085
+   NOMBRE: Haunted Room: 205
+   DESCRIPCION: Horror/escape; investigation; puzzles; and scares.
+ETIQUETAS STR: GKP193-PZG173-VQV154
+ETIQUETAS: 
+   1) CODIGO: GKP193  NOMBRE: pve
+   2) CODIGO: PZG173  NOMBRE: gameplay
+   3) CODIGO: VQV154  NOMBRE: ama
+COMENTARIOS: 
+   1) wow
+   2) 01070678665989b18271ad25a1f1da6f92dbb457 will you try toty messi this fifa or can you not afford
+CANAL:    relaxing234
+FECHA:    20210109
+LENGUAJE: Chinese
+CATEGORIA
+   CODIGO: LD1032
+   NOMBRE: Path of Exile 2
+   DESCRIPCION: ARPG; campaign; league starts; crafting; and bossing.
+ETIQUETAS STR: BGA171
+ETIQUETAS: 
+   1) CODIGO: BGA171  NOMBRE: chatting
+COMENTARIOS: 
+   1) c57408f5ed00cc1bd11a04622cad08a16549f988 i would argue that th y didn't deserve it
+   2) f433d424bd4dbc1f0c0f5f106476b26e4a757008 :(
+CANAL:    yapyap30
+FECHA:    20221021
+LENGUAJE: Korean
+CATEGORIA
+   CODIGO: QA1080
+   NOMBRE: Magic: The Gathering
+   DESCRIPCION: TCG; Arena/paper play; deck tech; and events.
+ETIQUETAS STR: UAA197
+ETIQUETAS: 
+   1) CODIGO: UAA197  NOMBRE: python
+COMENTARIOS: 
+   1) this guy is playing very well
+   2) poor defending
+CANAL:    Elwind
+FECHA:    20230812
+LENGUAJE: Turkish
+CATEGORIA
+   CODIGO: IC1059
+   NOMBRE: Pokmon Community Game
+   DESCRIPCION: Chat-driven Pokï¿½mon minigame played in-stream
+ETIQUETAS STR: EHZ179-BJU120-JUO176
+ETIQUETAS: 
+   1) CODIGO: EHZ179  NOMBRE: lol
+   2) CODIGO: BJU120  NOMBRE: pngtuber
+   3) CODIGO: JUO176  NOMBRE: chat
+COMENTARIOS: 
+   1) 731430e6a38d5dbe9abf28bf0029eddee1191337 a legend
+   2) will var ever be in fifa
+CANAL:    BastiGHG
+FECHA:    20210503
+LENGUAJE: German
+CATEGORIA
+   CODIGO: GW1036
+   NOMBRE: Slots
+   DESCRIPCION: Slot machine streams and related casino content.
+ETIQUETAS STR: UOU172-AZL133-BDH190-WQM170
+ETIQUETAS: 
+   1) CODIGO: UOU172  NOMBRE: mtg
+   2) CODIGO: AZL133  NOMBRE: furry
+   3) CODIGO: BDH190  NOMBRE: game
+   4) CODIGO: WQM170  NOMBRE: plus
+COMENTARIOS: 
+   1) lul mass is not your guy for things like that lul as long as you dont want to lose coins
+   2) 0e8bbf3683ed63f53e2dd8b79cf977a5d4015ccc its literally above your comment
+CANAL:    yeTz
+FECHA:    20210317
+LENGUAJE: Portuguese
+CATEGORIA
+   CODIGO: TM1088
+   NOMBRE: Eternal Return
+   DESCRIPCION: MOBA/BR hybrid; characters; routes; and ranked.
+ETIQUETAS STR: RSR181
+ETIQUETAS: 
+   1) CODIGO: RSR181  NOMBRE: gta
+COMENTARIOS: 
+   1) record
+   2) too much space mass
+CANAL:    Llobeti4
+FECHA:    20230316
+LENGUAJE: Spanish
+CATEGORIA
+   CODIGO: SJ1094
+   NOMBRE: Pools Hot Tubs and Beaches
+   DESCRIPCION: Aquatic IRL; pool streams; hot tubs; and beach hangouts.
+ETIQUETAS STR: COI138-UAA197
+ETIQUETAS: 
+   1) CODIGO: COI138  NOMBRE: shooter
+   2) CODIGO: UAA197  NOMBRE: python
+COMENTARIOS: 
+   1) 731430e6a38d5dbe9abf28bf0029eddee1191337 just checking you sexy bum
+   2) a954227235571316131abb831a9fba6d5131b94a what did the patch said
+CANAL:    xargon0731
+FECHA:    20210513
+LENGUAJE: Chinese
+CATEGORIA
+   CODIGO: QA1080
+   NOMBRE: Magic: The Gathering
+   DESCRIPCION: TCG; Arena/paper play; deck tech; and events.
+ETIQUETAS STR: UAA197-BJU120-MWP106
+ETIQUETAS: 
+   1) CODIGO: UAA197  NOMBRE: python
+   2) CODIGO: BJU120  NOMBRE: pngtuber
+   3) CODIGO: MWP106  NOMBRE: fps
+COMENTARIOS: 
+   1) another jake lul
+   2) reds
+CANAL:    shongxbong
+FECHA:    20220708
+LENGUAJE: Arabic
+CATEGORIA
+   CODIGO: BQ1071
+   NOMBRE: Star Citizen
+   DESCRIPCION: Space sim; ships; trading; org operations; and events.
+ETIQUETAS STR: BOC177-GZN112-HFO149-YCY140
+ETIQUETAS: 
+   1) CODIGO: BOC177  NOMBRE: oce
+   2) CODIGO: GZN112  NOMBRE: valorant
+   3) CODIGO: HFO149  NOMBRE: variety
+   4) CODIGO: YCY140  NOMBRE: envtuber
+COMENTARIOS: 
+   1) heyguys heyguys
+   2) 01070678665989b18271ad25a1f1da6f92dbb457 alisson would have caught it fam
+CANAL:    RiotGamesJP
+FECHA:    20220127
+LENGUAJE: Japanese
+CATEGORIA
+   CODIGO: ZG1043
+   NOMBRE: Retro
+   DESCRIPCION: Classic and retro gaming; speedruns; challenges; and nostalgia.
+ETIQUETAS STR: AZL133-YUP121-LJW189
+ETIQUETAS: 
+   1) CODIGO: AZL133  NOMBRE: furry
+   2) CODIGO: YUP121  NOMBRE: pvp
+   3) CODIGO: LJW189  NOMBRE: repeat
+COMENTARIOS: 
+   1) mass can u help me improve my team https://www futbin com/19/squad/8151003
+   2) pls say something jake lul
+CANAL:    Shaunz
+FECHA:    20210621
+LENGUAJE: French
+CATEGORIA
+   CODIGO: DB1005
+   NOMBRE: World of Warcraft
+   DESCRIPCION: MMORPG raids; Mythic+; leveling; PvP arenas; and class guides.
+ETIQUETAS STR: ISJ127-FAE158
+ETIQUETAS: 
+   1) CODIGO: ISJ127  NOMBRE: ???????
+   2) CODIGO: FAE158  NOMBRE: friendly
+COMENTARIOS: 
+   1) 01070678665989b18271ad25a1f1da6f92dbb457 custom tactics and instructions
+   2) bro why is there so many luis guys in this stream including me thres like a solid 4-5
+CANAL:    Homyatol
+FECHA:    20210622
+LENGUAJE: Italian
+CATEGORIA
+   CODIGO: BQ1023
+   NOMBRE: Street Fighter 6
+   DESCRIPCION: 1v1 fighting; ranked sets; lab work; tech; and tournaments.
+ETIQUETAS STR: EHZ179-LIX198-HVP148-TTQ129
+ETIQUETAS: 
+   1) CODIGO: EHZ179  NOMBRE: lol
+   2) CODIGO: LIX198  NOMBRE: ia
+   3) CODIGO: HVP148  NOMBRE: multiplayer
+   4) CODIGO: TTQ129  NOMBRE: playingwithviewers
+COMENTARIOS: 
+   1) the sweat is real
+   2) m a n a g e r
+CANAL:    aXtLOL
+FECHA:    20210803
+LENGUAJE: Portuguese
+CATEGORIA
+   CODIGO: LB1029
+   NOMBRE: Deadlock
+   DESCRIPCION: Competitive shooter/MOBA hybrid; matches and meta testing.
+ETIQUETAS STR: BDH190-PMW117
+ETIQUETAS: 
+   1) CODIGO: BDH190  NOMBRE: game
+   2) CODIGO: PMW117  NOMBRE: pc
+COMENTARIOS: 
+   1) or goretzka
+   2) can i get a chance or what :z :z
+   3) 013e821f4abd3315b33607ba2cb49e56f79ab646 he will never make one ffs
+   4) c57408f5ed00cc1bd11a04622cad08a16549f988 is probably going to get it tho
+CANAL:    boyMinORu
+FECHA:    20211207
+LENGUAJE: Thai
+CATEGORIA
+   CODIGO: PY1041
+   NOMBRE: EA Sports FC 25
+   DESCRIPCION: Football/soccer; Ultimate Team; Seasons; and tournaments.
+ETIQUETAS STR: LCI182-LTE194-AUP136-JDO132
+ETIQUETAS: 
+   1) CODIGO: LCI182  NOMBRE: japanese
+   2) CODIGO: LTE194  NOMBRE: speedrun
+   3) CODIGO: AUP136  NOMBRE: asmr
+   4) CODIGO: JDO132  NOMBRE: ps5
+COMENTARIOS: 
+   1)  its lengthy ea say for next version fixing the broken mechanics
+   2) go high depth it helps 01070678665989b18271ad25a1f1da6f92dbb457
+   3) potm
+   4) anyone have any tips on good lw
+CANAL:    just_ns
+FECHA:    20220524
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: LN1013
+   NOMBRE: Dead by Daylight
+   DESCRIPCION: 4v1 horror; killer/survivor gameplay; builds; and customs
+ETIQUETAS STR: OWQ126-ZKM134-RSR181-UZM160
+ETIQUETAS: 
+   1) CODIGO: OWQ126  NOMBRE: chatty
+   2) CODIGO: ZKM134  NOMBRE: australia
+   3) CODIGO: RSR181  NOMBRE: gta
+   4) CODIGO: UZM160  NOMBRE: spanish
+COMENTARIOS: 
+   1) he is*
+   2) no
+   3) fe69e9e340e5eb5aeb1ab8ba2ec524c6a33ff9e2 vvd imo stones cant jump well even with anchor
+   4) you will have to make it lul just take the photo from twitter
+CANAL:    Magic
+FECHA:    20230606
+LENGUAJE: Spanish
+CATEGORIA
+   CODIGO: AE1038
+   NOMBRE: Im Only Sleeping
+   DESCRIPCION: "Sleep"" streams with chat interactions and ambience."
+ETIQUETAS STR: FIQ167
+ETIQUETAS: 
+   1) CODIGO: FIQ167  NOMBRE: 18plus
+COMENTARIOS: 
+   1) joarwinston bully d:
+   2) who's better tots ederson or tots alisson v
+   3) ca u play another game wanna know ur opinion of telles mil comb
+   4) your not gonna win any headers because ronaldo is at cam and gullit is at cdm
+CANAL:    Xari
+FECHA:    20220728
+LENGUAJE: French
+CATEGORIA
+   CODIGO: OA1052
+   NOMBRE: RimWorld
+   DESCRIPCION: Colony sim; storytelling runs; modpacks; and challenge scenarios.
+ETIQUETAS STR: XUM137
+ETIQUETAS: 
+   1) CODIGO: XUM137  NOMBRE: 420
+COMENTARIOS: 
+   1) team of the season mane
+   2)  and theyre the same speed so i guess the bigger dude wins out there
+   3) 013e821f4abd3315b33607ba2cb49e56f79ab646 stop bullying jake :(
+   4) i wonder why they're up so much
+CANAL:    MarcaoRX
+FECHA:    20220512
+LENGUAJE: Portuguese
+CATEGORIA
+   CODIGO: QU1003
+   NOMBRE: Counter-Strike
+   DESCRIPCION: Tactical 5v5 FPS; scrims; ranked; utility lineups; and tournaments.
+ETIQUETAS STR: KRH188-XUM137-AZL133
+ETIQUETAS: 
+   1) CODIGO: KRH188  NOMBRE: dbd
+   2) CODIGO: XUM137  NOMBRE: 420
+   3) CODIGO: AZL133  NOMBRE: furry
+COMENTARIOS: 
+   1) why david luiz
+   2) 01070678665989b18271ad25a1f1da6f92dbb457 tactics
+   3) lul jake
+   4) c57408f5ed00cc1bd11a04622cad08a16549f988 massnastopthat
+CANAL:    yamatonjp
+FECHA:    20230115
+LENGUAJE: Japanese
+CATEGORIA
+   CODIGO: OR1066
+   NOMBRE: Are You Smarter Than a 5th Grader?
+   DESCRIPCION: Quiz/show game sessions with viewers.
+ETIQUETAS STR: ZZQ180-HTR108-BDH190
+ETIQUETAS: 
+   1) CODIGO: ZZQ180  NOMBRE: comfy
+   2) CODIGO: HTR108  NOMBRE: anime
+   3) CODIGO: BDH190  NOMBRE: game
+COMENTARIOS: 
+   1) any good bundesliga cb or bpl for around 200k
+   2) i'm better than this guy and i finish bronze 3 in wl kappa
+   3) where do ppl play havertz not sure where to put him
+   4) 013e821f4abd3315b33607ba2cb49e56f79ab646 im coming to live with you
+CANAL:    Skyyart
+FECHA:    20221121
+LENGUAJE: French
+CATEGORIA
+   CODIGO: DQ1021
+   NOMBRE: Clash Royale
+   DESCRIPCION: Mobile RTS; ladder; challenges; deck building; and tips.
+ETIQUETAS STR: UYB174-DQN116
+ETIQUETAS: 
+   1) CODIGO: UYB174  NOMBRE: vibes
+   2) CODIGO: DQN116  NOMBRE: safespace
+COMENTARIOS: 
+   1) can you check bernardo's stam plz
+   2) fifa = forking intriguing football aids
+   3) f
+   4)  what chemstyle on vvd should i use
+CANAL:    gratis150ml
+FECHA:    20210923
+LENGUAJE: Portuguese
+CATEGORIA
+   CODIGO: QT1017
+   NOMBRE: Overwatch 2
+   DESCRIPCION: 5v5 hero FPS; role queue ranked; scrims; and VOD reviews.
+ETIQUETAS STR: EZX161-IKK125-EHZ179-ZZQ180
+ETIQUETAS: 
+   1) CODIGO: EZX161  NOMBRE: cs2
+   2) CODIGO: IKK125  NOMBRE: horror
+   3) CODIGO: EHZ179  NOMBRE: lol
+   4) CODIGO: ZZQ180  NOMBRE: comfy
+COMENTARIOS: 
+   1) lul
+   2) i have cr7 neymar prime eusebio and mbappe where would u olay each of em in a 423rcam lcam cam st
+   3) u think tagliafico is worth it bro
+   4) i play full high depth 01070678665989b18271ad25a1f1da6f92dbb457
+CANAL:    Ponce
+FECHA:    20220625
+LENGUAJE: French
+CATEGORIA
+   CODIGO: TZ1002
+   NOMBRE: Grand Theft Auto V
+   DESCRIPCION: Open-world gameplay: GTA Online missions; stunts; and roleplay servers.
+ETIQUETAS STR: NNE115-OWQ126-XUM137
+ETIQUETAS: 
+   1) CODIGO: NNE115  NOMBRE: cozy
+   2) CODIGO: OWQ126  NOMBRE: chatty
+   3) CODIGO: XUM137  NOMBRE: 420
+COMENTARIOS: 
+   1) finally my first jake ban of the day kappa sorry jake
+   2) wait u got da costa and put mission failed for reds thats mad sus
+   3) a954227235571316131abb831a9fba6d5131b94a they must remove la croquetta bro and tornados cross
+   4) c57408f5ed00cc1bd11a04622cad08a16549f988 fight me first tho right
+CANAL:    rkdwl12
+FECHA:    20220228
+LENGUAJE: Korean
+CATEGORIA
+   CODIGO: NA1098
+   NOMBRE: Guilty Gear: Strive
+   DESCRIPCION: 1v1 fighter; training mode tech; sets; and tournaments.
+ETIQUETAS STR: BYR152-ZXP183
+ETIQUETAS: 
+   1) CODIGO: BYR152  NOMBRE: lgbtq
+   2) CODIGO: ZXP183  NOMBRE: dropsaktiviert
+COMENTARIOS: 
+   1) drop back man
+   2) they basically said we arent getting anything else in fifa 19 tho feelsbadman
+   3) cs
+   4) mass what you think about tots thiago
+CANAL:    TheKAIRI78
+FECHA:    20210728
+LENGUAJE: French
+CATEGORIA
+   CODIGO: MJ1009
+   NOMBRE: Fortnite
+   DESCRIPCION: Battle royale & creative modes; arena grind; events; and challenges.
+ETIQUETAS STR: TFK195-BPK178-OQK199-GKP193
+ETIQUETAS: 
+   1) CODIGO: TFK195  NOMBRE: code
+   2) CODIGO: BPK178  NOMBRE: xbox
+   3) CODIGO: OQK199  NOMBRE: pokemon
+   4) CODIGO: GKP193  NOMBRE: pve
+COMENTARIOS: 
+   1) when are you playing a game
+   2) another one here we go
+   3) where's the guy that scammed kieran
+   4) https://www twitch tv/realedwin
+CANAL:    RiotGamesRU
+FECHA:    20210909
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: DT1007
+   NOMBRE: Minecraft
+   DESCRIPCION: Survival; creative builds; minigames; speedruns; and modded packs
+ETIQUETAS STR: HPT153-LIX198-ZXP183
+ETIQUETAS: 
+   1) CODIGO: HPT153  NOMBRE: gamergirl
+   2) CODIGO: LIX198  NOMBRE: ia
+   3) CODIGO: ZXP183  NOMBRE: dropsaktiviert
+COMENTARIOS: 
+   1) cr7 should be striker
+   2) jake getting shot down quicker than malaysia airlines flight 370 kappa
+   3)  it's better to be aggressive with cbs when defending different people play different i guess
+   4) https://www twitch tv/realedwin
+CANAL:    FPSThailand
+FECHA:    20231212
+LENGUAJE: Thai
+CATEGORIA
+   CODIGO: LB1029
+   NOMBRE: Deadlock
+   DESCRIPCION: Competitive shooter/MOBA hybrid; matches and meta testing.
+ETIQUETAS STR: CUV131-PMW117-KUD124-GZN112
+ETIQUETAS: 
+   1) CODIGO: CUV131  NOMBRE: drops
+   2) CODIGO: PMW117  NOMBRE: pc
+   3) CODIGO: KUD124  NOMBRE: competitive
+   4) CODIGO: GZN112  NOMBRE: valorant
+COMENTARIOS: 
+   1) i want to unban him
+   2) why cr7 cam
+   3) https://www twitch tv/realedwin
+   4) i just wonder how you score next year
+CANAL:    naseongkim
+FECHA:    20221022
+LENGUAJE: Korean
+CATEGORIA
+   CODIGO: YC1062
+   NOMBRE: Animals Aquariums and Zoos
+   DESCRIPCION: Live animal cams; care streams; and zoo tours.
+ETIQUETAS STR: HDQ185
+ETIQUETAS: 
+   1) CODIGO: HDQ185  NOMBRE: queer
+COMENTARIOS: 
+   1) gameplay looks very quick
+   2) #welcomebackjake
+   3) https://www twitch tv/realedwin
+   4) 40f7cbaa4d2c49168fdf51ef2ddd3ab4b8ee1790 soon hopefully lul
+CANAL:    obm1025
+FECHA:    20221117
+LENGUAJE: Korean
+CATEGORIA
+   CODIGO: LO1049
+   NOMBRE: Call of Duty: Black Ops 6
+   DESCRIPCION: CoD entry; multiplayer; Zombies; and campaign runs.
+ETIQUETAS STR: BDH190-GCS151-INC128
+ETIQUETAS: 
+   1) CODIGO: BDH190  NOMBRE: game
+   2) CODIGO: GCS151  NOMBRE: dropsactivés
+   3) CODIGO: INC128  NOMBRE: girl
+COMENTARIOS: 
+   1) i personally felt good about the patch notes
+   2) current song
+   3) shadow if you dont have a faster cb with him if you have a faster one then anchor
+   4) goretzka
+CANAL:    BlackUFA
+FECHA:    20210125
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: LD1032
+   NOMBRE: Path of Exile 2
+   DESCRIPCION: ARPG; campaign; league starts; crafting; and bossing.
+ETIQUETAS STR: DOL102
+ETIQUETAS: 
+   1) CODIGO: DOL102  NOMBRE: vtuber
+COMENTARIOS: 
+   1) c57408f5ed00cc1bd11a04622cad08a16549f988 way gone
+   2) reds
+   3) you need a real cdm like vieira
+   4) b05a32bdea5d4d7ab4f72ece7e9a7068708e918c pogchamp
+CANAL:    polsatgames
+FECHA:    20220505
+LENGUAJE: Polish
+CATEGORIA
+   CODIGO: KS1095
+   NOMBRE: Metin2
+   DESCRIPCION: Classic MMORPG; grinding; dungeons; and PvP.
+ETIQUETAS STR: INC128-ISJ127
+ETIQUETAS: 
+   1) CODIGO: INC128  NOMBRE: girl
+   2) CODIGO: ISJ127  NOMBRE: ???????
+COMENTARIOS: 
+   1) c57408f5ed00cc1bd11a04622cad08a16549f988 wow
+   2) c57408f5ed00cc1bd11a04622cad08a16549f988 smh my head
+   3) 01070678665989b18271ad25a1f1da6f92dbb457 you need a medium high to balance the midfield
+   4) edwinnraid edwinnraid edwinnraid edwinnraid
+CANAL:    orangemorange
+FECHA:    20220802
+LENGUAJE: German
+CATEGORIA
+   CODIGO: KF1077
+   NOMBRE: Guild Wars 2
+   DESCRIPCION: MMORPG; WvW; fractals; raids; and fashion.
+ETIQUETAS STR: IKK125
+ETIQUETAS: 
+   1) CODIGO: IKK125  NOMBRE: horror
+COMENTARIOS: 
+   1) you're playing against a fellow romanian mass
+   2) is it bad for me to have 2 fullbacks at 7 chem
+   3) try 4222
+   4) edwinnraid edwinnraid edwinnraid edwinnraid
+CANAL:    MinosTV_
+FECHA:    20220120
+LENGUAJE: French
+CATEGORIA
+   CODIGO: AG1091
+   NOMBRE: Sea of Thieves
+   DESCRIPCION: Co-op pirate adventures; voyages and PvP.
+ETIQUETAS STR: GCS151-JDO132-DQN116
+ETIQUETAS: 
+   1) CODIGO: GCS151  NOMBRE: dropsactivés
+   2) CODIGO: JDO132  NOMBRE: ps5
+   3) CODIGO: DQN116  NOMBRE: safespace
+COMENTARIOS: 
+   1) you need a vieira
+   2) is lw willian any good
+   3) #welcomebackjake
+   4) that militao is a hack
+CANAL:    bysTaXx
+FECHA:    20231227
+LENGUAJE: Spanish
+CATEGORIA
+   CODIGO: DQ1021
+   NOMBRE: Clash Royale
+   DESCRIPCION: Mobile RTS; ladder; challenges; deck building; and tips.
+ETIQUETAS STR: VQV154-BGA171-UZM160-DIM143
+ETIQUETAS: 
+   1) CODIGO: VQV154  NOMBRE: ama
+   2) CODIGO: BGA171  NOMBRE: chatting
+   3) CODIGO: UZM160  NOMBRE: spanish
+   4) CODIGO: DIM143  NOMBRE: asian
+COMENTARIOS: 
+   1) go high depth bro u giving too much space 01070678665989b18271ad25a1f1da6f92dbb457
+   2) record ban c57408f5ed00cc1bd11a04622cad08a16549f988
+   3) stop moobot
+   4) higher depth is good if you can manual defend watch runthefutmarket tactics
+CANAL:    hardgamechannel
+FECHA:    20230601
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: CV1064
+   NOMBRE: VRChat
+   DESCRIPCION: Social VR; avatar showcases; world hopping; and meetups.
+ETIQUETAS STR: DRY196-VIN110-EZX161-EHZ179
+ETIQUETAS: 
+   1) CODIGO: DRY196  NOMBRE: cpp
+   2) CODIGO: VIN110  NOMBRE: funny
+   3) CODIGO: EZX161  NOMBRE: cs2
+   4) CODIGO: EHZ179  NOMBRE: lol
+COMENTARIOS: 
+   1) i bet he's playing the mighty jake
+   2) edwinnraid edwinnraid edwinnraid edwinnraid edwinnraid edwinnraid edwinnraid edwinnraid
+   3) bernardo got good stamina
+   4) tots goretzka sbc bro better than viera imo bro
+CANAL:    VooDooSh
+FECHA:    20220405
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: CV1064
+   NOMBRE: VRChat
+   DESCRIPCION: Social VR; avatar showcases; world hopping; and meetups.
+ETIQUETAS STR: FJF159-XEB122-HTR108-YCY140
+ETIQUETAS: 
+   1) CODIGO: FJF159  NOMBRE: art
+   2) CODIGO: XEB122  NOMBRE: gamer
+   3) CODIGO: HTR108  NOMBRE: anime
+   4) CODIGO: YCY140  NOMBRE: envtuber
+COMENTARIOS: 
+   1) jake pls come back i wont ban you again
+   2) lul
+   3) f433d424bd4dbc1f0c0f5f106476b26e4a757008 playing him with 94 laporte on shadow
+   4) drop back helps bro
+CANAL:    WELOVEGAMES
+FECHA:    20231115
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: KB1047
+   NOMBRE: Destiny 2
+   DESCRIPCION: Looter-shooter; raids; Trials; builds; and seasonal content.
+ETIQUETAS STR: ZZQ180
+ETIQUETAS: 
+   1) CODIGO: ZZQ180  NOMBRE: comfy
+COMENTARIOS: 
+   1) edwinnraid edwinnraid edwinnraid edwinnraid edwinnraid
+   2) why is your depth so damn low lul
+   3) baby blanc
+   4) i play balanced with 10 depth and full backs on balanced 01070678665989b18271ad25a1f1da6f92dbb457
+CANAL:    StereOnline
+FECHA:    20220901
+LENGUAJE: Portuguese
+CATEGORIA
+   CODIGO: NO1070
+   NOMBRE: Foxhole
+   DESCRIPCION: Massive war MMO; logistics; fronts; and player-driven battles.
+ETIQUETAS STR: HTR108-UPK123-ZPK187
+ETIQUETAS: 
+   1) CODIGO: HTR108  NOMBRE: anime
+   2) CODIGO: UPK123  NOMBRE: irl
+   3) CODIGO: ZPK187  NOMBRE: dota2
+COMENTARIOS: 
+   1) it's so good for first time shots
+   2) pressure on heavy is amazing
+   3) 8b0b3e7ab08aa054e442e2b541b9ccae3301da60 he's a good swimmer
+   4) welcome everyone :d <3
+CANAL:    kyo1984123
+FECHA:    20231104
+LENGUAJE: Chinese
+CATEGORIA
+   CODIGO: BC1084
+   NOMBRE: Blue Protocol: Star Resonance
+   DESCRIPCION: Online action RPG with an anime vibe; quests and co-op.
+ETIQUETAS STR: FZP192
+ETIQUETAS: 
+   1) CODIGO: FZP192  NOMBRE: black
+COMENTARIOS: 
+   1) no problem bro been hearing your name a lot and thought id finally meet u :) 
+   2) 446580e365cac4bae0238a654cc21103f731ce93 you know his name
+   3) peter schmeichel is no joke great was going to put him into another icon dont want to anymore
+   4) grind for viera
+CANAL:    Alexby11
+FECHA:    20220218
+LENGUAJE: Spanish
+CATEGORIA
+   CODIGO: II1076
+   NOMBRE: Crypto
+   DESCRIPCION: Crypto markets talk; education; and web3 project coverage.
+ETIQUETAS STR: BJU120
+ETIQUETAS: 
+   1) CODIGO: BJU120  NOMBRE: pngtuber
+COMENTARIOS: 
+   1) whod ya get in rewards mate
+   2) just saying tots havertz is the best player in the game
+   3) 01070678665989b18271ad25a1f1da6f92dbb457 can we pls ban chris
+   4) told you bernardo was a cheat code mass
+CANAL:    Tumblurr
+FECHA:    20230314
+LENGUAJE: Italian
+CATEGORIA
+   CODIGO: WT1016
+   NOMBRE: Marvel Rivals
+   DESCRIPCION: Team shooter with Marvel heroes; matches; comps; and strategies.
+ETIQUETAS STR: JQJ162-SOQ157-KXS144
+ETIQUETAS: 
+   1) CODIGO: JQJ162  NOMBRE: chattingwithviewers
+   2) CODIGO: SOQ157  NOMBRE: firstplaythrough
+   3) CODIGO: KXS144  NOMBRE: retro
+COMENTARIOS: 
+   1) 01070678665989b18271ad25a1f1da6f92dbb457 why cdms on cover wing
+   2) `we've conquered all of europe `we're never gonna stop `from paris down to turkey `we've won the
+   3) cr7 anywhere upfront but cam
+   4) van dijk on 8 chem or tots john stones on 10 chem
+CANAL:    ELoTRiX
+FECHA:    20210420
+LENGUAJE: German
+CATEGORIA
+   CODIGO: OR1066
+   NOMBRE: Are You Smarter Than a 5th Grader?
+   DESCRIPCION: Quiz/show game sessions with viewers.
+ETIQUETAS STR: HWP145-BGA171-JQJ162-ABY186
+ETIQUETAS: 
+   1) CODIGO: HWP145  NOMBRE: filipino
+   2) CODIGO: BGA171  NOMBRE: chatting
+   3) CODIGO: JQJ162  NOMBRE: chattingwithviewers
+   4) CODIGO: ABY186  NOMBRE: varietystreamer
+COMENTARIOS: 
+   1) https://www twitch tv/realedwin
+   2) reg pogba or reg kdb as cam
+   3) search his name
+   4) #tradingwithmass
+CANAL:    XEWER
+FECHA:    20211118
+LENGUAJE: French
+CATEGORIA
+   CODIGO: XG1006
+   NOMBRE: IRL
+   DESCRIPCION: Real-life streaming: travel; city walks; food tours; and daily life.
+ETIQUETAS STR: GGS114
+ETIQUETAS: 
+   1) CODIGO: GGS114  NOMBRE: dropsactivados
+COMENTARIOS: 
+   1) c57408f5ed00cc1bd11a04622cad08a16549f988 fight me
+   2) https://www twitch tv/realedwin
+   3) c57408f5ed00cc1bd11a04622cad08a16549f988 i'm disappointed w/ you
+   4) sorry kappa
+CANAL:    blxckoutz
+FECHA:    20210812
+LENGUAJE: Portuguese
+CATEGORIA
+   CODIGO: KB1047
+   NOMBRE: Destiny 2
+   DESCRIPCION: Looter-shooter; raids; Trials; builds; and seasonal content.
+ETIQUETAS STR: ISJ127-XOW164-OWQ126-LJW189
+ETIQUETAS: 
+   1) CODIGO: ISJ127  NOMBRE: ???????
+   2) CODIGO: XOW164  NOMBRE: australian
+   3) CODIGO: OWQ126  NOMBRE: chatty
+   4) CODIGO: LJW189  NOMBRE: repeat
+COMENTARIOS: 
+   1) baaaaaaaaaaan
+   2) https://www twitch tv/realedwin
+   3) tots goretzka would solve the cdm problem
+   4) whoever just put use drop back needs banning kappa
+CANAL:    ALOHADANCETV
+FECHA:    20211223
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: EB1075
+   NOMBRE: Call of Duty
+   DESCRIPCION: General CoD category; multiplayer; BR; and Zombies across titles.
+ETIQUETAS STR: HVP148-BZQ165-UYB174
+ETIQUETAS: 
+   1) CODIGO: HVP148  NOMBRE: multiplayer
+   2) CODIGO: BZQ165  NOMBRE: cod
+   3) CODIGO: UYB174  NOMBRE: vibes
+COMENTARIOS: 
+   1) i use 7 depth pretty good high line but not too exposed
+   2) in honesty your cdm's are too attacking will leave you way too exposed overall
+   3) fe69e9e340e5eb5aeb1ab8ba2ec524c6a33ff9e2 which version of vvd
+   4) i think you would get top 100 easy if you get a groundpounder in for pogba man
+CANAL:    RoyalPhunk
+FECHA:    20210715
+LENGUAJE: German
+CATEGORIA
+   CODIGO: NA1098
+   NOMBRE: Guilty Gear: Strive
+   DESCRIPCION: 1v1 fighter; training mode tech; sets; and tournaments.
+ETIQUETAS STR: IKK125-PUH184
+ETIQUETAS: 
+   1) CODIGO: IKK125  NOMBRE: horror
+   2) CODIGO: PUH184  NOMBRE: callofduty
+COMENTARIOS: 
+   1) what gameplay is this
+   2) full high 01070678665989b18271ad25a1f1da6f92dbb457
+   3) im like a gold2/1 player
+CANAL:    Overpow
+FECHA:    20230510
+LENGUAJE: Polish
+CATEGORIA
+   CODIGO: NN1099
+   NOMBRE: Software and Game Development
+   DESCRIPCION: Live coding; game engines; tools; and devlogs
+ETIQUETAS STR: AEU118-LJW189-ISJ127
+ETIQUETAS: 
+   1) CODIGO: AEU118  NOMBRE: rpg
+   2) CODIGO: LJW189  NOMBRE: repeat
+   3) CODIGO: ISJ127  NOMBRE: ???????
+COMENTARIOS: 
+   1) thx :)
+   2) f433d424bd4dbc1f0c0f5f106476b26e4a757008 88vd or tots john stones
+   3) wanna get elite
+CANAL:    NeVeR_LosEs
+FECHA:    20210204
+LENGUAJE: Chinese
+CATEGORIA
+   CODIGO: OZ1085
+   NOMBRE: Haunted Room: 205
+   DESCRIPCION: Horror/escape; investigation; puzzles; and scares.
+ETIQUETAS STR: YCY140-MWP106-ZXP183
+ETIQUETAS: 
+   1) CODIGO: YCY140  NOMBRE: envtuber
+   2) CODIGO: MWP106  NOMBRE: fps
+   3) CODIGO: ZXP183  NOMBRE: dropsaktiviert
+COMENTARIOS: 
+   1) the pass this fifa is awful
+   2) #bestandonlymod kappa
+   3) b9bc384a11db1e3dba6efbea0a6cacc4eb907a26 shut up
+   4) u need to abuse crosses bro
+CANAL:    Ko0416
+FECHA:    20210524
+LENGUAJE: Chinese
+CATEGORIA
+   CODIGO: LH1004
+   NOMBRE: VALORANT
+   DESCRIPCION: Hero-based 5v5 FPS; ranked; team scrims; agent guides; and aim practice.
+ETIQUETAS STR: ZKM134-RFQ147
+ETIQUETAS: 
+   1) CODIGO: ZKM134  NOMBRE: australia
+   2) CODIGO: RFQ147  NOMBRE: live
+COMENTARIOS: 
+   1)  i'd probably use anchor on laporte and shadow on vvd personally
+   2) 123
+   3) menu streaming
+   4) bernardos weak foor not good for cam
+CANAL:    Dota2ruhub2
+FECHA:    20220512
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: WT1016
+   NOMBRE: Marvel Rivals
+   DESCRIPCION: Team shooter with Marvel heroes; matches; comps; and strategies.
+ETIQUETAS STR: IKK125-EHZ179-RLU104-XEB122
+ETIQUETAS: 
+   1) CODIGO: IKK125  NOMBRE: horror
+   2) CODIGO: EHZ179  NOMBRE: lol
+   3) CODIGO: RLU104  NOMBRE: adhd
+   4) CODIGO: XEB122  NOMBRE: gamer
+COMENTARIOS: 
+   1) c98e04ba3b487f9c5af40f819c3a663947910059 i can spam how much i want kappa
+   2) best chem for tots salah
+   3) c57408f5ed00cc1bd11a04622cad08a16549f988 come to sweden then
+   4) rewards
+   5) m
+   6) bernando silva i swear every shot is a goal
+CANAL:    JesusAVGN
+FECHA:    20220805
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: VX1069
+   NOMBRE: HELLDIVERS 2
+   DESCRIPCION: Co-op shooter, operations; weapons; and stratagems.
+ETIQUETAS STR: BYR152-LIX198-GZN112-AEU118
+ETIQUETAS: 
+   1) CODIGO: BYR152  NOMBRE: lgbtq
+   2) CODIGO: LIX198  NOMBRE: ia
+   3) CODIGO: GZN112  NOMBRE: valorant
+   4) CODIGO: AEU118  NOMBRE: rpg
+COMENTARIOS: 
+   1) https://www twitch tv/realedwin
+   2) anyways lads ole's at the wheel
+   3) bong break kappa
+   4) i prefer a 4 star weak foot for cam but 99stam is great for cam
+   5) there is still smoke in the background
+   6) face_with_tears_of_joy: :face_with_tears_of_joy: :face_with_tears_of_joy: :face_with_tears_of_joy:
+CANAL:    Mickalow
+FECHA:    20221026
+LENGUAJE: French
+CATEGORIA
+   CODIGO: YC1062
+   NOMBRE: Animals Aquariums and Zoos
+   DESCRIPCION: Live animal cams; care streams; and zoo tours.
+ETIQUETAS STR: ZPK187
+ETIQUETAS: 
+   1) CODIGO: ZPK187  NOMBRE: dota2
+COMENTARIOS: 
+   1) tots goretza
+   2) https://www twitch tv/realedwin
+   3) i think it was better with cr7 at cam he's wasted out wide imo
+   4) lul
+   5) maybe lower the widthwhile u playing the cdms on cover wide
+   6) sorry
+CANAL:    UNLOSTV
+FECHA:    20230715
+LENGUAJE: Turkish
+CATEGORIA
+   CODIGO: AE1038
+   NOMBRE: Im Only Sleeping
+   DESCRIPCION: "Sleep"" streams with chat interactions and ambience."
+ETIQUETAS STR: PMW117-AEU118
+ETIQUETAS: 
+   1) CODIGO: PMW117  NOMBRE: pc
+   2) CODIGO: AEU118  NOMBRE: rpg
+COMENTARIOS: 
+   1) e3214df16861673d444661293a3053f5058287f8 lul
+   2) https://www twitch tv/realedwin
+   3) u like pogba more or vieira 01070678665989b18271ad25a1f1da6f92dbb457
+   4) play now
+   5) 7a2cc49a10d7d1ac21e3d19e0411f6d3ac81b170 could u get tots goretzka
+   6) is he a pro
+CANAL:    Felps
+FECHA:    20210202
+LENGUAJE: Portuguese
+CATEGORIA
+   CODIGO: IR1081
+   NOMBRE: Battlefield 2042
+   DESCRIPCION: Large-scale FPS; conquest; portal modes; and specialists.
+ETIQUETAS STR: BDH190
+ETIQUETAS: 
+   1) CODIGO: BDH190  NOMBRE: game
+COMENTARIOS: 
+   1) getting slapped up by an 83 year old
+   2) 01070678665989b18271ad25a1f1da6f92dbb457 use fast build up with drop back
+   3) ahhhh red one i see
+   4) c3e9b20869a4efc9487232e339ee8a45751d79a0 probably
+   5) https://www twitch tv/realedwin
+   6) i only like the pro clubs menus tbh 01070678665989b18271ad25a1f1da6f92dbb457
+CANAL:    adolfz
+FECHA:    20210910
+LENGUAJE: Portuguese
+CATEGORIA
+   CODIGO: WC1010
+   NOMBRE: Metal Gear Solid Delta Snake Eater
+   DESCRIPCION: Stealth-action remake playthroughs; challenges; and lore.
+ETIQUETAS STR: BKY101-MWP106-WQM170-ISJ127
+ETIQUETAS: 
+   1) CODIGO: BKY101  NOMBRE: chill
+   2) CODIGO: MWP106  NOMBRE: fps
+   3) CODIGO: WQM170  NOMBRE: plus
+   4) CODIGO: ISJ127  NOMBRE: ???????
+COMENTARIOS: 
+   1) we need gameplay
+   2) c57408f5ed00cc1bd11a04622cad08a16549f988 could mean a few things kappa
+   3) kappa
+   4) c57408f5ed00cc1bd11a04622cad08a16549f988 you rather stay in the uk with your new pm boris kappa
+   5) https://www twitch tv/realedwin
+   6) c98e04ba3b487f9c5af40f819c3a663947910059 f kappa lul
+CANAL:    knekro
+FECHA:    20220227
+LENGUAJE: Spanish
+CATEGORIA
+   CODIGO: KF1077
+   NOMBRE: Guild Wars 2
+   DESCRIPCION: MMORPG; WvW; fractals; raids; and fashion.
+ETIQUETAS STR: TTQ129-QHJ155-TFK195-VHS107
+ETIQUETAS: 
+   1) CODIGO: TTQ129  NOMBRE: playingwithviewers
+   2) CODIGO: QHJ155  NOMBRE: justchatting
+   3) CODIGO: TFK195  NOMBRE: code
+   4) CODIGO: VHS107  NOMBRE: fortnite
+COMENTARIOS: 
+   1) https://www twitch tv/realedwin
+   2) dc united are interrested in ashley young
+   3) 01070678665989b18271ad25a1f1da6f92dbb457 what do you think of 95 kimmich and 91 tha
+   4) c3e9b20869a4efc9487232e339ee8a45751d79a0 lul
+   5) what reds did you get
+   6) what dyu think of militao
+CANAL:    Smurfdomuca
+FECHA:    20231212
+LENGUAJE: Portuguese
+CATEGORIA
+   CODIGO: DN1001
+   NOMBRE: League of Legends
+   DESCRIPCION: 5v5 MOBA; ranked climbs; pro play analysis; and coaching
+ETIQUETAS STR: DOL102-JYS169-BJU120
+ETIQUETAS: 
+   1) CODIGO: DOL102  NOMBRE: vtuber
+   2) CODIGO: JYS169  NOMBRE: mmorpg
+   3) CODIGO: BJU120  NOMBRE: pngtuber
+COMENTARIOS: 
+   1) subs off mitro
+   2) i think you should go for a high/ high player for pogba like tots wijnaldum
+   3) im sohappy with my gold 3 rewards i got eder militao and alex telles
+   4) tah*
+   5) c3e9b20869a4efc9487232e339ee8a45751d79a0 yooooooo
+   6) https://www twitch tv/realedwin
+CANAL:    so_urf
+FECHA:    20230825
+LENGUAJE: Korean
+CATEGORIA
+   CODIGO: BQ1071
+   NOMBRE: Star Citizen
+   DESCRIPCION: Space sim; ships; trading; org operations; and events.
+ETIQUETAS STR: TFK195-DOL102-QHJ155
+ETIQUETAS: 
+   1) CODIGO: TFK195  NOMBRE: code
+   2) CODIGO: DOL102  NOMBRE: vtuber
+   3) CODIGO: QHJ155  NOMBRE: justchatting
+COMENTARIOS: 
+   1) wtf is that lul
+   2) https://www twitch tv/realedwin
+   3) best day of my life
+   4) 013e821f4abd3315b33607ba2cb49e56f79ab646 standard liege lil
+   5) the passing on this fifa is bad
+   6) mass play drop back fast build up
+CANAL:    pimpimenta
+FECHA:    20220814
+LENGUAJE: Portuguese
+CATEGORIA
+   CODIGO: LH1004
+   NOMBRE: VALORANT
+   DESCRIPCION: Hero-based 5v5 FPS; ranked; team scrims; agent guides; and aim practice.
+ETIQUETAS STR: OWQ126-XEB122-HMK109-AEU118
+ETIQUETAS: 
+   1) CODIGO: OWQ126  NOMBRE: chatty
+   2) CODIGO: XEB122  NOMBRE: gamer
+   3) CODIGO: HMK109  NOMBRE: music
+   4) CODIGO: AEU118  NOMBRE: rpg
+COMENTARIOS: 
+   1) https://www twitch tv/realedwin
+   2) lul
+   3) i really do actually but it's a lot easier to see a lot of gameplay that a lot of menus
+   4) its def a blessing man
+   5) massnagiroud why tf is giroud red he's a blue now
+   6) when are you gonna finish your haircut
+CANAL:    sonycast_
+FECHA:    20210709
+LENGUAJE: Korean
+CATEGORIA
+   CODIGO: EW1042
+   NOMBRE: Rust
+   DESCRIPCION: Survival PvP; wipe days; raids; bases; and team warfare.
+ETIQUETAS STR: VVW175
+ETIQUETAS: 
+   1) CODIGO: VVW175  NOMBRE: nobackseating
+COMENTARIOS: 
+   1) respect him
+   2) c57408f5ed00cc1bd11a04622cad08a16549f988 late asf
+   3) goretzka maybe
+   4) pogba and gullit are fine imo
+   5) gameplay is the worst part of fifa 19
+   6) 01070678665989b18271ad25a1f1da6f92dbb457 4-1
+CANAL:    HGmony
+FECHA:    20230821
+LENGUAJE: Russian
+CATEGORIA
+   CODIGO: BK1048
+   NOMBRE: Always On
+   DESCRIPCION: 24/7 channels with loops; cams; and continuous programming.
+ETIQUETAS STR: YUP121-XUM137-TFK195
+ETIQUETAS: 
+   1) CODIGO: YUP121  NOMBRE: pvp
+   2) CODIGO: XUM137  NOMBRE: 420
+   3) CODIGO: TFK195  NOMBRE: code
+COMENTARIOS: 
+   1) 4f478197ee0bcf79f9858de8c6c68e0871333e7b
+   2) 013e821f4abd3315b33607ba2cb49e56f79ab646 i heard he bought a new one for his birthday
+   3) shoot
+   4) sorry newer to streaming apologies for these weird questions
+   5) would have made more sense to pair up pogba with vieira rather than gullit imo but gullit is so fun
+----------------------------------------------------------------------------------------------------------------------------------
